@@ -1,0 +1,1507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="Payton Knopf" label="Payton Knopf" />
+      <node id="mantech" label="mantech" />
+      <node id="Unknown" label="Unknown" />
+      <node id="wang, anne" label="wang, anne" />
+      <node id="kagan, robert" label="kagan, robert" />
+      <node id="Oscar Lores" label="Oscar Lores" />
+      <node id="mchone, c h" label="mchone, c h" />
+      <node id="Cheryl Mills ;Hillary Clinton" label="Cheryl Mills ;Hillary Clinton" />
+      <node id="Dennis Ross" label="Dennis Ross" />
+      <node id="grossmanmi@state.gov" label="grossmanmi@state.gov" />
+      <node id="hammer, michael a" label="hammer, michael a" />
+      <node id="peltz, nelson" label="peltz, nelson" />
+      <node id="www.oecd.org" label="www.oecd.org" />
+      <node id="Chester Crocker" label="Chester Crocker" />
+      <node id="Mark Penn" label="Mark Penn" />
+      <node id="Brian Greenspun" label="Brian Greenspun" />
+      <node id="graca machel trust" label="graca machel trust" />
+      <node id="Esther Brimmer" label="Esther Brimmer" />
+      <node id="Lee Feinstein" label="Lee Feinstein" />
+      <node id="fuchs, mike" label="fuchs, mike" />
+      <node id="E. Pelton" label="E. Pelton" />
+      <node id="Lourdes Cue" label="Lourdes Cue" />
+      <node id="Paul Collier" label="Paul Collier" />
+      <node id="kkazzarelli" label="kkazzarelli" />
+      <node id="Robert Hormats" label="Robert Hormats" />
+      <node id="Yasar Yakis" label="Yasar Yakis" />
+      <node id="habedin" label="habedin" />
+      <node id="Walter Isaacson" label="Walter Isaacson" />
+      <node id="netanyahu, benjamin" label="netanyahu, benjamin" />
+      <node id="list" label="list" />
+      <node id="Anne-Marie Slaughter" label="Anne-Marie Slaughter" />
+      <node id="Jeffrey Feltman" label="Jeffrey Feltman" />
+      <node id="Arthur Humphries" label="Arthur Humphries" />
+      <node id="jilliscol" label="jilliscol" />
+      <node id="fernandez, richard r" label="fernandez, richard r" />
+      <node id="sullivanjj@state/gov" label="sullivanjj@state/gov" />
+      <node id="bondy, steve" label="bondy, steve" />
+      <node id="Govenman Etazini" label="Govenman Etazini" />
+      <node id="John Spykerman" label="John Spykerman" />
+      <node id="Nora Tov" label="Nora Tov" />
+      <node id="David Adams" label="David Adams" />
+      <node id="Julie Short" label="Julie Short" />
+      <node id="G. Lou de Bac" label="G. Lou de Bac" />
+      <node id="Louise Diamond" label="Louise Diamond" />
+      <node id="abedomj@state.gov" label="abedomj@state.gov" />
+      <node id="United States of America" label="United States of America" />
+      <node id="blaker2@state.gov" label="blaker2@state.gov" />
+      <node id="meehanb@state.gov" label="meehanb@state.gov" />
+      <node id="gensler, gary" label="gensler, gary" />
+      <node id="philippe" label="philippe" />
+      <node id="andrea_j_palm" label="andrea_j_palm" />
+      <node id="stringer, howard" label="stringer, howard" />
+      <node id="klain, ron" label="klain, ron" />
+      <node id="Eric Woodard" label="Eric Woodard" />
+      <node id="KPK" label="KPK" />
+      <node id="rubin, james p" label="rubin, james p" />
+      <node id="jalili, saeed" label="jalili, saeed" />
+      <node id="atwood, j brian" label="atwood, j brian" />
+      <node id="Philippe Reines" label="Philippe Reines" />
+      <node id="Dana Hyde" label="Dana Hyde" />
+      <node id="haledm2@state.gov" label="haledm2@state.gov" />
+      <node id="goosby, eric" label="goosby, eric" />
+      <node id="abedinh@state;gov" label="abedinh@state;gov" />
+      <node id="jonrdavidson" label="jonrdavidson" />
+      <node id="Claire Coleman" label="Claire Coleman" />
+      <node id="amemb port-au-prince" label="amemb port-au-prince" />
+      <node id="Rosemarie Howe" label="Rosemarie Howe" />
+      <node id="kamali, farideh" label="kamali, farideh" />
+      <node id="James Smith" label="James Smith" />
+      <node id="Oscar Flores" label="Oscar Flores" />
+      <node id="Thomas Shannon" label="Thomas Shannon" />
+      <node id="smith, daniel b" label="smith, daniel b" />
+      <node id="diane, reynolds" label="diane, reynolds" />
+      <node id="abbaszadehn@state.gov" label="abbaszadehn@state.gov" />
+      <node id="Rene Preval" label="Rene Preval" />
+      <node id="Reines Philippe" label="Reines Philippe" />
+      <node id="ASUNCION" label="ASUNCION" />
+      <node id="andrea.palm@hhs.gov" label="andrea.palm@hhs.gov" />
+      <node id="Adam Ereli" label="Adam Ereli" />
+      <node id="hanley, monica" label="hanley, monica" />
+      <node id="davisjl4@state.gov" label="davisjl4@state.gov" />
+      <node id="Wendy Sherman" label="Wendy Sherman" />
+      <node id="carpenter, margaret v w" label="carpenter, margaret v w" />
+      <node id="FICC" label="FICC" />
+      <node id="Betsy Ebeling" label="Betsy Ebeling" />
+      <node id="Judith Kieffer" label="Judith Kieffer" />
+      <node id="Kris Balderston" label="Kris Balderston" />
+      <node id="Huma Abedin" label="Huma Abedin" />
+      <node id="bosworth, steve" label="bosworth, steve" />
+      <node id="Deborah Graze" label="Deborah Graze" />
+      <node id="Bill Clinton" label="Bill Clinton" />
+      <node id="eeas" label="eeas" />
+      <node id="James Steinberg" label="James Steinberg" />
+      <node id="mmoore" label="mmoore" />
+      <node id="Michael Fuchs" label="Michael Fuchs" />
+      <node id="eur/we:davis, bridget" label="eur/we:davis, bridget" />
+      <node id="Lisa Caputo" label="Lisa Caputo" />
+      <node id="patterson, anne w" label="patterson, anne w" />
+      <node id="Jennifer Robinson" label="Jennifer Robinson" />
+      <node id="Christopher Edwards" label="Christopher Edwards" />
+      <node id="samuelson, heather f" label="samuelson, heather f" />
+      <node id="valenzuela,arturo a" label="valenzuela,arturo a" />
+      <node id="kktowns" label="kktowns" />
+      <node id="Laura Pena" label="Laura Pena" />
+      <node id="David Hale" label="David Hale" />
+      <node id="woodardew2@state.gov" label="woodardew2@state.gov" />
+      <node id="Gorden Gray" label="Gorden Gray" />
+      <node id="mottaki, manouchehr" label="mottaki, manouchehr" />
+      <node id="WoodardEW@state.gov" label="WoodardEW@state.gov" />
+      <node id="pelosi, nancy" label="pelosi, nancy" />
+      <node id="monica" label="monica" />
+      <node id="James Rubin" label="James Rubin" />
+      <node id="Samuel (\Sandy\&quot;) Berger&quot;" label="Samuel (\Sandy\&quot;) Berger&quot;" />
+      <node id="Hillary Clinton; Philippe Reines" label="Hillary Clinton; Philippe Reines" />
+      <node id="sarkozy, nicolas" label="sarkozy, nicolas" />
+      <node id="edelman, marty" label="edelman, marty" />
+      <node id="Washington Post" label="Washington Post" />
+      <node id="otera, maria" label="otera, maria" />
+      <node id="Craig Kelly" label="Craig Kelly" />
+      <node id="ashton, catherine margaret" label="ashton, catherine margaret" />
+      <node id="Alec Ross" label="Alec Ross" />
+      <node id="Marty Torrey" label="Marty Torrey" />
+      <node id="gutman, howard" label="gutman, howard" />
+      <node id="Piper Campbell" label="Piper Campbell" />
+      <node id="judithmchale" label="judithmchale" />
+      <node id="lrobinson" label="lrobinson" />
+      <node id="Thomas Nides" label="Thomas Nides" />
+      <node id="Andrew Bernknopf" label="Andrew Bernknopf" />
+      <node id="LGraham" label="LGraham" />
+      <node id="sullivan, jacob j" label="sullivan, jacob j" />
+      <node id="usaid" label="usaid" />
+      <node id="G. Wills" label="G. Wills" />
+      <node id="Carlos Pascual" label="Carlos Pascual" />
+      <node id="donilon, thomas e." label="donilon, thomas e." />
+      <node id="Victoria Nuland" label="Victoria Nuland" />
+      <node id="Elizabeth Drew" label="Elizabeth Drew" />
+      <node id="reichel, carlyn" label="reichel, carlyn" />
+      <node id="Jeffrey Farrow" label="Jeffrey Farrow" />
+      <node id="sherwood-randall, liz" label="sherwood-randall, liz" />
+      <node id="pathfinder" label="pathfinder" />
+      <node id="senjohnkerry" label="senjohnkerry" />
+      <node id="ashton, catherine" label="ashton, catherine" />
+      <node id="John Podesta" label="John Podesta" />
+      <node id="keating, geoffrey t" label="keating, geoffrey t" />
+      <node id="U.S. Global Leadership Coalition" label="U.S. Global Leadership Coalition" />
+      <node id="thier, alex" label="thier, alex" />
+      <node id="Ban Ki-moon" label="Ban Ki-moon" />
+      <node id="Laurie Rubiner" label="Laurie Rubiner" />
+      <node id="rodriguez, miguel" label="rodriguez, miguel" />
+      <node id="Patrick Kennedy" label="Patrick Kennedy" />
+      <node id="macmanusje2@state.gov" label="macmanusje2@state.gov" />
+      <node id="ross dennis b" label="ross dennis b" />
+      <node id="David Garten" label="David Garten" />
+      <node id="Lauren Jiloty" label="Lauren Jiloty" />
+      <node id="Monica Hanley" label="Monica Hanley" />
+      <node id="barnett, robert b" label="barnett, robert b" />
+      <node id="Rodriguez Miguel" label="Rodriguez Miguel" />
+      <node id="robert.kagan" label="robert.kagan" />
+      <node id="penal@state.gov" label="penal@state.gov" />
+      <node id="sand, maria w" label="sand, maria w" />
+      <node id="dross" label="dross" />
+      <node id="davis, lanny" label="davis, lanny" />
+      <node id="lieutenant colonel alfredo najera" label="lieutenant colonel alfredo najera" />
+      <node id="kruzich, joseph" label="kruzich, joseph" />
+      <node id="Robert Blake" label="Robert Blake" />
+      <node id="Heintz" label="Heintz" />
+      <node id="levin, fay hartog" label="levin, fay hartog" />
+      <node id="Mark Hyman" label="Mark Hyman" />
+      <node id="seib, gerald f" label="seib, gerald f" />
+      <node id="sheldon_whitehouse2@whitehouse.senate.gov" label="sheldon_whitehouse2@whitehouse.senate.gov" />
+      <node id="Walter Parrs" label="Walter Parrs" />
+      <node id="bin abd al-aziz al saud, abdullah" label="bin abd al-aziz al saud, abdullah" />
+      <node id="Barbara Mikulski" label="Barbara Mikulski" />
+      <node id="Colin Powell" label="Colin Powell" />
+      <node id="Kati Marton" label="Kati Marton" />
+      <node id="Yousaf Gilani" label="Yousaf Gilani" />
+      <node id="haiti dlc distro" label="haiti dlc distro" />
+      <node id="stockjs@state.gov" label="stockjs@state.gov" />
+      <node id="Janice Jacobs" label="Janice Jacobs" />
+      <node id="usun/hc:buda, thomas" label="usun/hc:buda, thomas" />
+      <node id="professor muhammad yunus" label="professor muhammad yunus" />
+      <node id="lopes da silva, ramiro" label="lopes da silva, ramiro" />
+      <node id="Han Duk-soo" label="Han Duk-soo" />
+      <node id="friedd@state.gov" label="friedd@state.gov" />
+      <node id="Doug Hattaway" label="Doug Hattaway" />
+      <node id="keith, adam e" label="keith, adam e" />
+      <node id="Maria Calivis" label="Maria Calivis" />
+      <node id="alec.ross" label="alec.ross" />
+      <node id="Jan Piercy" label="Jan Piercy" />
+      <node id="Miguel Rodriguez" label="Miguel Rodriguez" />
+      <node id="ross, dennis" label="ross, dennis" />
+      <node id="harry.b.harris" label="harry.b.harris" />
+      <node id="sylan support group" label="sylan support group" />
+      <node id="wellsag@state.gov" label="wellsag@state.gov" />
+      <node id="JAMA" label="JAMA" />
+      <node id="J. Finkle" label="J. Finkle" />
+      <node id="foroohar, rana" label="foroohar, rana" />
+      <node id="Bruce Ramer" label="Bruce Ramer" />
+      <node id="dsa" label="dsa" />
+      <node id="joseph.wilson" label="joseph.wilson" />
+      <node id="flournoy, michele" label="flournoy, michele" />
+      <node id="besty.ebeling@illinois.gov" label="besty.ebeling@illinois.gov" />
+      <node id="teich, sarah f" label="teich, sarah f" />
+      <node id="gates, robert m" label="gates, robert m" />
+      <node id="crocker, bathsheba n" label="crocker, bathsheba n" />
+      <node id="hunter, robert" label="hunter, robert" />
+      <node id="mh.interiors" label="mh.interiors" />
+      <node id="rubin, james p." label="rubin, james p." />
+      <node id="pvereer" label="pvereer" />
+      <node id="carpentermv@state.gov" label="carpentermv@state.gov" />
+      <node id="cintron, izumi o" label="cintron, izumi o" />
+      <node id="varma, vivek" label="varma, vivek" />
+      <node id="international criminal court" label="international criminal court" />
+      <node id="adamsds@state.gov" label="adamsds@state.gov" />
+      <node id="Foreign Affairs Magazine" label="Foreign Affairs Magazine" />
+      <node id="r_m_gates" label="r_m_gates" />
+      <node id="Christopher Hill" label="Christopher Hill" />
+      <node id="mspence" label="mspence" />
+      <node id="Member of Congress" label="Member of Congress" />
+      <node id="Tina Flournoy" label="Tina Flournoy" />
+      <node id="Burns Strider" label="Burns Strider" />
+      <node id="hickey, cindy" label="hickey, cindy" />
+      <node id="kennedypf@state.gov" label="kennedypf@state.gov" />
+      <node id="Karen Stewart" label="Karen Stewart" />
+      <node id="Republican Members" label="Republican Members" />
+      <node id="sullivan. jacob j" label="sullivan. jacob j" />
+      <node id="Sidney Blumenthal" label="Sidney Blumenthal" />
+      <node id="112th congress" label="112th congress" />
+      <node id="haroldnaughton" label="haroldnaughton" />
+      <node id="William Hubbard" label="William Hubbard" />
+      <node id="Caroline Adler" label="Caroline Adler" />
+      <node id="george" label="george" />
+      <node id="Arturo Valenzuela" label="Arturo Valenzuela" />
+      <node id="David Johnson" label="David Johnson" />
+      <node id="Samuel Berger" label="Samuel Berger" />
+      <node id="Francis Ricciardone" label="Francis Ricciardone" />
+      <node id="Rajiv Shah" label="Rajiv Shah" />
+      <node id="NHLA" label="NHLA" />
+      <node id="jkeane" label="jkeane" />
+      <node id="Justin Cooper" label="Justin Cooper" />
+      <node id="jamie" label="jamie" />
+      <node id="Doug Band" label="Doug Band" />
+      <node id="jennings, chris" label="jennings, chris" />
+      <node id="Lona Valmoro" label="Lona Valmoro" />
+      <node id="Yoweri Museveni" label="Yoweri Museveni" />
+      <node id="sandmw@state.gov" label="sandmw@state.gov" />
+      <node id="powellnj@state.gov" label="powellnj@state.gov" />
+      <node id="Haiti" label="Haiti" />
+      <node id="mchald, judith a" label="mchald, judith a" />
+      <node id="Richard Verma" label="Richard Verma" />
+      <node id="William Burns" label="William Burns" />
+      <node id="mclarty, mack" label="mclarty, mack" />
+      <node id="h:blumenfeld, josh" label="h:blumenfeld, josh" />
+      <node id="jacobsonrs@state.gov" label="jacobsonrs@state.gov" />
+      <node id="Biography" label="Biography" />
+      <node id="Lanny Davis" label="Lanny Davis" />
+      <node id="mcfaul, michael a" label="mcfaul, michael a" />
+      <node id="Prime Minister" label="Prime Minister" />
+      <node id="Reta Jo Lewis" label="Reta Jo Lewis" />
+      <node id="emanuel, rahm" label="emanuel, rahm" />
+      <node id="Johnnie Carson" label="Johnnie Carson" />
+      <node id="kerry, john" label="kerry, john" />
+      <node id="lang, kimberly c." label="lang, kimberly c." />
+      <node id="wilson, joseph" label="wilson, joseph" />
+      <node id="szubin, adam" label="szubin, adam" />
+      <node id="James McGovern" label="James McGovern" />
+      <node id="Cheryl" label="Cheryl" />
+      <node id="nora.toiv" label="nora.toiv" />
+      <node id="nyu-poly community" label="nyu-poly community" />
+      <node id="kleinfeld, rachel" label="kleinfeld, rachel" />
+      <node id="Brooke Garber Neidich" label="Brooke Garber Neidich" />
+      <node id="Max Baucus" label="Max Baucus" />
+      <node id="chairman" label="chairman" />
+      <node id="Long Term Strategy Group" label="Long Term Strategy Group" />
+      <node id="G Sheaffer" label="G Sheaffer" />
+      <node id="mission pk" label="mission pk" />
+      <node id="Nancy Parrish" label="Nancy Parrish" />
+      <node id="jlcos" label="jlcos" />
+      <node id="Neera Tanden" label="Neera Tanden" />
+      <node id="wilson, valerie" label="wilson, valerie" />
+      <node id="gopk" label="gopk" />
+      <node id="Council on Foreign Relations" label="Council on Foreign Relations" />
+      <node id="countryman, thomas" label="countryman, thomas" />
+      <node id="John Olver" label="John Olver" />
+      <node id="carroll, sean" label="carroll, sean" />
+      <node id="bshillady" label="bshillady" />
+      <node id="indyk, martin" label="indyk, martin" />
+      <node id="colman, claire l" label="colman, claire l" />
+      <node id="Donald" label="Donald" />
+      <node id="mills, cheyrl d" label="mills, cheyrl d" />
+      <node id="haillary" label="haillary" />
+      <node id="WHADP" label="WHADP" />
+      <node id="Huma Abedin; Hillary Clinton" label="Huma Abedin; Hillary Clinton" />
+      <node id="hybels, lynne" label="hybels, lynne" />
+      <node id="Andrew Shapiro" label="Andrew Shapiro" />
+      <node id="Gideon Rose" label="Gideon Rose" />
+      <node id="roy.spence" label="roy.spence" />
+      <node id="farrow, jeffrey f" label="farrow, jeffrey f" />
+      <node id="Hill" label="Hill" />
+      <node id="Bonnie Klehr" label="Bonnie Klehr" />
+      <node id="Cheryl Mills" label="Cheryl Mills" />
+      <node id="World Bank" label="World Bank" />
+      <node id="soros, jonathan" label="soros, jonathan" />
+      <node id="Ian Kelly" label="Ian Kelly" />
+      <node id="abedin, huma&gt;" label="abedin, huma&gt;" />
+      <node id="wen jiabao" label="wen jiabao" />
+      <node id="s/p:slaughter, ann-marie" label="s/p:slaughter, ann-marie" />
+      <node id="preines;h" label="preines;h" />
+      <node id="united states mission to the united nations" label="united states mission to the united nations" />
+      <node id="s/sait: ross, alec" label="s/sait: ross, alec" />
+      <node id="Michael Posner" label="Michael Posner" />
+      <node id="Diane Reynolds" label="Diane Reynolds" />
+      <node id="Bernadette Meehan" label="Bernadette Meehan" />
+      <node id="SRGIA" label="SRGIA" />
+      <node id="Counselor" label="Counselor" />
+      <node id="Muhammad Yunus" label="Muhammad Yunus" />
+      <node id="David Brock" label="David Brock" />
+      <node id="Lissa Muscatine" label="Lissa Muscatine" />
+      <node id="Nima Abbaszadeh" label="Nima Abbaszadeh" />
+      <node id="s/ciea:pascual and s/eee morningstar" label="s/ciea:pascual and s/eee morningstar" />
+      <node id="ALDAC" label="ALDAC" />
+      <node id="S. Akbar Zaidi" label="S. Akbar Zaidi" />
+      <node id="Kelly Brownell" label="Kelly Brownell" />
+      <node id="jhuber2606" label="jhuber2606" />
+      <node id="Jackie Newmyer" label="Jackie Newmyer" />
+      <node id="dhattaway" label="dhattaway" />
+      <node id="Suzanne Grantham" label="Suzanne Grantham" />
+      <node id="Luzzatto" label="Luzzatto" />
+      <node id="jacobson, roberta s" label="jacobson, roberta s" />
+      <node id="Daniel Baer" label="Daniel Baer" />
+      <node id="falvo, christine" label="falvo, christine" />
+      <node id="FINCA International" label="FINCA International" />
+      <node id="penn, mark j" label="penn, mark j" />
+      <node id="Maura Pally" label="Maura Pally" />
+      <node id="Dmitry Vovchuk" label="Dmitry Vovchuk" />
+      <node id="mmonroe" label="mmonroe" />
+      <node id="Richard Holbrooke" label="Richard Holbrooke" />
+      <node id="rverma" label="rverma" />
+      <node id="heintz, stephen b" label="heintz, stephen b" />
+      <node id="Embassy of the Argentine Republic" label="Embassy of the Argentine Republic" />
+      <node id="director of communication, isaf and usfor-a" label="director of communication, isaf and usfor-a" />
+      <node id="USUN" label="USUN" />
+      <node id="kissinger, henry" label="kissinger, henry" />
+      <node id="Robert Danford" label="Robert Danford" />
+      <node id="rooneym@state.gov" label="rooneym@state.gov" />
+      <node id="feldman, daniel f" label="feldman, daniel f" />
+      <node id="cdea, ambassador wayne" label="cdea, ambassador wayne" />
+      <node id="feldmandf@state.gov" label="feldmandf@state.gov" />
+      <node id="Terry Duffy" label="Terry Duffy" />
+      <node id="S" label="S" />
+      <node id="Lynn Forester de Rothschild" label="Lynn Forester de Rothschild" />
+      <node id="joe" label="joe" />
+      <node id="wall street journal" label="wall street journal" />
+      <node id="gurria, angel" label="gurria, angel" />
+      <node id="nathanson, marc" label="nathanson, marc" />
+      <node id="Kabul LGF Request" label="Kabul LGF Request" />
+      <node id="postmaster@state.gov" label="postmaster@state.gov" />
+      <node id="Melanne Verveer" label="Melanne Verveer" />
+      <node id="jillichtman" label="jillichtman" />
+      <node id="mitchellg@state.gov" label="mitchellg@state.gov" />
+      <node id="Dan Schwerin" label="Dan Schwerin" />
+      <node id="klang" label="klang" />
+      <node id="crocker, ryan c" label="crocker, ryan c" />
+      <node id="pennrhodeen" label="pennrhodeen" />
+      <node id="martilla, john" label="martilla, john" />
+      <node id="Thomas Donilon" label="Thomas Donilon" />
+      <node id="reines, philippe" label="reines, philippe" />
+      <node id="Mike Lynch" label="Mike Lynch" />
+      <node id="Susan Rice" label="Susan Rice" />
+      <node id="David Miliband" label="David Miliband" />
+      <node id="Jay Epping" label="Jay Epping" />
+      <node id="professor muhammed yunus" label="professor muhammed yunus" />
+      <node id="Tsakina Elbegdori" label="Tsakina Elbegdori" />
+      <node id="elle magazine" label="elle magazine" />
+      <node id="DanielJJ@state.gov" label="DanielJJ@state.gov" />
+      <node id="ross, dennis b." label="ross, dennis b." />
+      <node id="mohamed, binyam" label="mohamed, binyam" />
+      <node id="Justine Sincavage" label="Justine Sincavage" />
+      <node id="morningstar, richard l" label="morningstar, richard l" />
+      <node id="tyson, laura" label="tyson, laura" />
+      <node id="macaskill, kenny" label="macaskill, kenny" />
+      <node id="Judith McHale" label="Judith McHale" />
+      <node id="spence, roy" label="spence, roy" />
+      <node id="Luis CdeBaca" label="Luis CdeBaca" />
+      <node id="flournoy, tina" label="flournoy, tina" />
+      <node id="Jacob Lew" label="Jacob Lew" />
+      <node id="davis, lanny j" label="davis, lanny j" />
+      <node id="G Wills" label="G Wills" />
+      <node id="mayor_re" label="mayor_re" />
+      <node id="am" label="am" />
+      <node id="Oscar Arias Sanchez" label="Oscar Arias Sanchez" />
+      <node id="strobe, talbott" label="strobe, talbott" />
+      <node id="pascualc@state.gov" label="pascualc@state.gov" />
+      <node id="srap/p:lenderking, t" label="srap/p:lenderking, t" />
+      <node id="Anthony Lake" label="Anthony Lake" />
+      <node id="sheeran, josette" label="sheeran, josette" />
+      <node id="Philip Gordon" label="Philip Gordon" />
+      <node id="valmoro. lona j" label="valmoro. lona j" />
+      <node id="io:edmonson, susan" label="io:edmonson, susan" />
+      <node id="Sir" label="Sir" />
+      <node id="ahlc chair" label="ahlc chair" />
+      <node id="sullilvanjj@state.gov" label="sullilvanjj@state.gov" />
+      <node id="Courtney Beale" label="Courtney Beale" />
+      <node id="Hillary Clinton" label="Hillary Clinton" />
+      <node id="Strobe Talbott" label="Strobe Talbott" />
+      <node id="monrovia" label="monrovia" />
+      <node id="alexander, ralph" label="alexander, ralph" />
+      <node id="cooks, arazi l" label="cooks, arazi l" />
+      <node id="Kurt Campbell" label="Kurt Campbell" />
+      <node id="Alex Dupuy" label="Alex Dupuy" />
+      <node id="rendon group" label="rendon group" />
+      <node id="Megan Rooney" label="Megan Rooney" />
+      <node id="fried, daniel" label="fried, daniel" />
+      <node id="Dan Feldman" label="Dan Feldman" />
+      <node id="Marc Grossman" label="Marc Grossman" />
+      <node id="thomas.r.pickering" label="thomas.r.pickering" />
+      <node id="shongole37" label="shongole37" />
+      <node id="Andrew Mayock" label="Andrew Mayock" />
+      <node id="M. Albright" label="M. Albright" />
+      <node id="Peter Robinson" label="Peter Robinson" />
+      <node id="Zachary Iscol" label="Zachary Iscol" />
+      <node id="deanehan,  r" label="deanehan,  r" />
+      <node id="Christopher Green" label="Christopher Green" />
+      <node id="reid, harry" label="reid, harry" />
+      <node id="Christopher Butzgy" label="Christopher Butzgy" />
+      <node id="agor, christina j" label="agor, christina j" />
+      <node id="gentlemen" label="gentlemen" />
+      <node id="humamabedin" label="humamabedin" />
+      <node id="Lois Quam" label="Lois Quam" />
+      <node id="wilson, joe" label="wilson, joe" />
+      <node id="borns, jeff" label="borns, jeff" />
+      <node id="Eni Faleomavaega" label="Eni Faleomavaega" />
+      <node id="mfuchs.mike" label="mfuchs.mike" />
+      <node id="Bill Lane" label="Bill Lane" />
+      <node id="jiloty, laruen c" label="jiloty, laruen c" />
+      <node id="IRS" label="IRS" />
+      <node id="adlerce@state.gov" label="adlerce@state.gov" />
+      <node id="Tomicah Tillemann" label="Tomicah Tillemann" />
+      <node id="Jon Kyl" label="Jon Kyl" />
+      <node id="tyson" label="tyson" />
+      <node id="ros-lehtinen" label="ros-lehtinen" />
+      <node id="Daniel Schwerin" label="Daniel Schwerin" />
+      <node id="radice, jamie" label="radice, jamie" />
+      <node id="schu" label="schu" />
+      <node id="Jim Hoagland" label="Jim Hoagland" />
+      <node id="valerie" label="valerie" />
+      <node id="whom it may concern" label="whom it may concern" />
+      <node id="davis, jennifer l" label="davis, jennifer l" />
+      <node id="iscol, jill" label="iscol, jill" />
+      <node id="Opinion Research" label="Opinion Research" />
+      <node id="nazary, parnian" label="nazary, parnian" />
+      <node id="White House" label="White House" />
+      <node id="syrian support group" label="syrian support group" />
+      <node id="millscs@state.gov" label="millscs@state.gov" />
+      <node id="Joanne Laszczych" label="Joanne Laszczych" />
+      <node id="see distribution" label="see distribution" />
+      <node id="George Mitchell" label="George Mitchell" />
+      <node id="Todd Stern" label="Todd Stern" />
+      <node id="ross, alec j" label="ross, alec j" />
+      <node id="Phillip Crowley" label="Phillip Crowley" />
+      <node id="thomas_e._donilon" label="thomas_e._donilon" />
+      <node id="Voda Ebeling" label="Voda Ebeling" />
+      <node id="Daniel" label="Daniel" />
+      <node id="Gina Glantz" label="Gina Glantz" />
+      <node id="toribiong, johnson" label="toribiong, johnson" />
+      <node id="shermanwr@state.gov" label="shermanwr@state.gov" />
+      <node id="paul" label="paul" />
+      <node id="Judith" label="Judith" />
+      <node id="Rosemarie Howe ;Hillary Clinton" label="Rosemarie Howe ;Hillary Clinton" />
+      <node id="pinsky, mark" label="pinsky, mark" />
+      <node id="wells, alice g" label="wells, alice g" />
+      <node id="Karl Eikenberry" label="Karl Eikenberry" />
+      <node id="shin, ed" label="shin, ed" />
+      <node id="Jake Sullivan" label="Jake Sullivan" />
+      <node id="jarvis, lucy" label="jarvis, lucy" />
+      <node id="Derek Chollet" label="Derek Chollet" />
+      <node id="Barack Obama" label="Barack Obama" />
+      <node id="mon" label="mon" />
+      <node id="shapiro, daniel b" label="shapiro, daniel b" />
+      <node id="munter, cameron p" label="munter, cameron p" />
+      <node id="hyman, mark" label="hyman, mark" />
+      <node id="stock, ann" label="stock, ann" />
+      <node id="stephen.roach" label="stephen.roach" />
+      <node id="Michele Flournoy" label="Michele Flournoy" />
+      <node id="pattersonaw@state.gov" label="pattersonaw@state.gov" />
+      <node id="Hillary Clinton ;Cheryl Mills" label="Hillary Clinton ;Cheryl Mills" />
+      <node id="latimes.com" label="latimes.com" />
+      <node id="mueller, rober s" label="mueller, rober s" />
+      <node id="harold.koplewicz" label="harold.koplewicz" />
+      <node id="Nora Toiv" label="Nora Toiv" />
+      <node id="russo, robert" label="russo, robert" />
+      <node id="io/unp:debbink, sarah" label="io/unp:debbink, sarah" />
+      <node id="AGNA USEMB Kabul Afghanistan" label="AGNA USEMB Kabul Afghanistan" />
+      <node id="mcdonough, denis r" label="mcdonough, denis r" />
+      <node id="pesaru, shilpa" label="pesaru, shilpa" />
+      <node id="l" label="l" />
+      <node id="kissinger, henry a" label="kissinger, henry a" />
+      <node id="111th Congress" label="111th Congress" />
+      <node id="David Axelrod" label="David Axelrod" />
+      <node id="mitchell, derek" label="mitchell, derek" />
+      <node id="millcd@state.gov" label="millcd@state.gov" />
+      <node id="Chelsea Clinton" label="Chelsea Clinton" />
+      <node id="Scott Gration" label="Scott Gration" />
+      <node id="Kent Conrad" label="Kent Conrad" />
+      <node id="Mike" label="Mike" />
+      <node id="murphy, terry b." label="murphy, terry b." />
+      <node id="Daniel Inonye" label="Daniel Inonye" />
+      <node id="holbrooke, richard" label="holbrooke, richard" />
+      <node id="KellyC@state.gov" label="KellyC@state.gov" />
+      <node id="blair, bruce" label="blair, bruce" />
+      <node id="Cherie Blair" label="Cherie Blair" />
+      <node id="davidson, jon" label="davidson, jon" />
+      <node id="Philip Crowley" label="Philip Crowley" />
+      <node id="Nicholas Norman" label="Nicholas Norman" />
+      <node id="graham, catherine t" label="graham, catherine t" />
+      <node id="rrussony" label="rrussony" />
+      <node id="ramsay, alston" label="ramsay, alston" />
+      <node id="Jonathan Prince" label="Jonathan Prince" />
+      <node id="Recos" label="Recos" />
+      <node id="Joshua Daniel" label="Joshua Daniel" />
+      <node id="Rick Sloan" label="Rick Sloan" />
+      <node id="kussa" label="kussa" />
+      <node id="Sung Kim" label="Sung Kim" />
+      <node id="rrh.interiors" label="rrh.interiors" />
+      <node id="UN General Assembly" label="UN General Assembly" />
+      <node id="Lee Brown" label="Lee Brown" />
+      <node id="sulilvan, jacob j" label="sulilvan, jacob j" />
+      <node id="jvillarreal" label="jvillarreal" />
+      <node id="amnesty international" label="amnesty international" />
+      <node id="PVervee" label="PVervee" />
+      <node id="Danielle Brian" label="Danielle Brian" />
+      <node id="rshah@usaid.gov" label="rshah@usaid.gov" />
+      <node id="u.s. dept of state protocol" label="u.s. dept of state protocol" />
+      <node id="hecker, sig" label="hecker, sig" />
+      <node id="burns, strider" label="burns, strider" />
+      <node id="cfalvo@usaid.gov" label="cfalvo@usaid.gov" />
+      <node id="steinberg, james" label="steinberg, james" />
+      <node id="nes/ela:conlon, steve" label="nes/ela:conlon, steve" />
+      <node id="mullen, m g" label="mullen, m g" />
+      <node id="froman, michael b" label="froman, michael b" />
+      <node id="schwartzep@state.gov" label="schwartzep@state.gov" />
+      <node id="jamierubin" label="jamierubin" />
+      <node id="Paul Jones" label="Paul Jones" />
+      <node id="jamesprubin" label="jamesprubin" />
+      <node id="Alec" label="Alec" />
+      <node id="nides, thomas" label="nides, thomas" />
+      <node id="American Beverage Association" label="American Beverage Association" />
+      <node id="Jim Kennedy" label="Jim Kennedy" />
+      <node id="sbwhoep" label="sbwhoep" />
+      <node id="bastien, joelle-elizabeth" label="bastien, joelle-elizabeth" />
+      <node id="Ministry of Foreign Affairs Pakistan" label="Ministry of Foreign Affairs Pakistan" />
+      <node id="rossaj@state.gov" label="rossaj@state.gov" />
+      <node id="Robert Russo" label="Robert Russo" />
+      <node id="shapirodb@state.gov" label="shapirodb@state.gov" />
+      <node id="lantz, judson" label="lantz, judson" />
+      <node id="Chad Weston" label="Chad Weston" />
+      <node id="Maria Otero" label="Maria Otero" />
+      <node id="davidmilibandpersonal" label="davidmilibandpersonal" />
+      <node id="record" label="record" />
+      <node id="miguel" label="miguel" />
+      <node id="feridun, sinirlioglu" label="feridun, sinirlioglu" />
+      <node id="Linda Dewan" label="Linda Dewan" />
+      <node id="Michele Bond" label="Michele Bond" />
+      <node id="whitehouse, sheldon" label="whitehouse, sheldon" />
+      <node id="New York State DMV" label="New York State DMV" />
+      <node id="Madeleine Albright" label="Madeleine Albright" />
+      <node id="Daily Sun" label="Daily Sun" />
+      <node id="dennis_b._ross" label="dennis_b._ross" />
+      <node id="Werner Ilic" label="Werner Ilic" />
+      <node id="macmanus, joseph e" label="macmanus, joseph e" />
+      <node id="ivalmoro" label="ivalmoro" />
+      <node id="Cecile Richards" label="Cecile Richards" />
+      <node id="deanehan, r" label="deanehan, r" />
+      <node id="New York Times" label="New York Times" />
+      <node id="Akbar Zaidi" label="Akbar Zaidi" />
+      <node id="aclb" label="aclb" />
+      <node id="mhcaleja@state.gov" label="mhcaleja@state.gov" />
+      <node id="tina.brownny" label="tina.brownny" />
+      <node id="Maggie Williams" label="Maggie Williams" />
+      <node id="L. Rosenberger" label="L. Rosenberger" />
+      <node id="donilon, tom" label="donilon, tom" />
+      <node id="secretary of state for foreign and commonwealth affairs" label="secretary of state for foreign and commonwealth affairs" />
+      <node id="Harold Hongju Koh" label="Harold Hongju Koh" />
+      <node id="Department of State" label="Department of State" />
+      <node id="samuelson, heather" label="samuelson, heather" />
+      <node id="Bob Hormats" label="Bob Hormats" />
+      <node id="congress" label="congress" />
+      <node id="Capricia Marshall" label="Capricia Marshall" />
+      <node id="Saxby Chambliss" label="Saxby Chambliss" />
+      <node id="alcb" label="alcb" />
+      <node id="AP" label="AP" />
+      <node id="mission.ir" label="mission.ir" />
+      <node id="netanyahu" label="netanyahu" />
+      <node id="Charles Kiamie" label="Charles Kiamie" />
+      <node id="s/srap:bommer, ashley" label="s/srap:bommer, ashley" />
+      <node id="Marianne Scott" label="Marianne Scott" />
+      <node id="Ellen Tauscher" label="Ellen Tauscher" />
+      <node id="Case Button" label="Case Button" />
+      <node id="STATE" label="STATE" />
+      <node id="komorowski, bronislaw" label="komorowski, bronislaw" />
+      <node id="cownie, t.m. franklin" label="cownie, t.m. franklin" />
+      <node id="child mind institute" label="child mind institute" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Payton Knopf" target="Unknown" weight="1" />
+      <edge id="1" source="mantech" target="Unknown" weight="1" />
+      <edge id="2" source="Unknown" target="Sir" weight="1" />
+      <edge id="3" source="Unknown" target="Cheryl Mills" weight="2" />
+      <edge id="4" source="Unknown" target="see distribution" weight="1" />
+      <edge id="5" source="Unknown" target="Unknown" weight="4062" />
+      <edge id="6" source="Unknown" target="Prime Minister" weight="1" />
+      <edge id="7" source="Unknown" target="United States of America" weight="1" />
+      <edge id="8" source="Unknown" target="Hillary Clinton" weight="35" />
+      <edge id="9" source="Unknown" target="record" weight="1" />
+      <edge id="10" source="Unknown" target="William Hubbard" weight="1" />
+      <edge id="11" source="Unknown" target="Hill" weight="1" />
+      <edge id="12" source="Unknown" target="bin abd al-aziz al saud, abdullah" weight="1" />
+      <edge id="13" source="Unknown" target="Biography" weight="7" />
+      <edge id="14" source="Unknown" target="chairman" weight="1" />
+      <edge id="15" source="wang, anne" target="Unknown" weight="1" />
+      <edge id="16" source="kagan, robert" target="Hillary Clinton" weight="1" />
+      <edge id="17" source="kagan, robert" target="Strobe Talbott" weight="1" />
+      <edge id="18" source="mchone, c h" target="Unknown" weight="1" />
+      <edge id="19" source="Dennis Ross" target="Unknown" weight="1" />
+      <edge id="20" source="Dennis Ross" target="Hillary Clinton" weight="16" />
+      <edge id="21" source="hammer, michael a" target="Wendy Sherman" weight="1" />
+      <edge id="22" source="peltz, nelson" target="Hillary Clinton" weight="1" />
+      <edge id="23" source="www.oecd.org" target="Unknown" weight="1" />
+      <edge id="24" source="Chester Crocker" target="Unknown" weight="1" />
+      <edge id="25" source="graca machel trust" target="Hillary Clinton" weight="1" />
+      <edge id="26" source="Esther Brimmer" target="Hillary Clinton" weight="1" />
+      <edge id="27" source="Lee Feinstein" target="Hillary Clinton" weight="1" />
+      <edge id="28" source="fuchs, mike" target="Hillary Clinton" weight="1" />
+      <edge id="29" source="E. Pelton" target="Unknown" weight="1" />
+      <edge id="30" source="Paul Collier" target="Unknown" weight="1" />
+      <edge id="31" source="Robert Hormats" target="Hillary Clinton" weight="5" />
+      <edge id="32" source="Yasar Yakis" target="Biography" weight="1" />
+      <edge id="33" source="netanyahu, benjamin" target="Barack Obama" weight="1" />
+      <edge id="34" source="Anne-Marie Slaughter" target="Cheryl Mills" weight="2" />
+      <edge id="35" source="Anne-Marie Slaughter" target="murphy, terry b." weight="1" />
+      <edge id="36" source="Anne-Marie Slaughter" target="Jacob Lew" weight="1" />
+      <edge id="37" source="Anne-Marie Slaughter" target="Anne-Marie Slaughter" weight="3" />
+      <edge id="38" source="Anne-Marie Slaughter" target="Unknown" weight="4" />
+      <edge id="39" source="Anne-Marie Slaughter" target="Hillary Clinton" weight="338" />
+      <edge id="40" source="Anne-Marie Slaughter" target="James Steinberg" weight="1" />
+      <edge id="41" source="Anne-Marie Slaughter" target="S" weight="10" />
+      <edge id="42" source="Anne-Marie Slaughter" target="hunter, robert" weight="1" />
+      <edge id="43" source="Jeffrey Feltman" target="Jake Sullivan" weight="5" />
+      <edge id="44" source="Jeffrey Feltman" target="Harold Hongju Koh" weight="2" />
+      <edge id="45" source="Jeffrey Feltman" target="Hillary Clinton" weight="37" />
+      <edge id="46" source="Arthur Humphries" target="Saxby Chambliss" weight="1" />
+      <edge id="47" source="bondy, steve" target="szubin, adam" weight="1" />
+      <edge id="48" source="John Spykerman" target="Unknown" weight="1" />
+      <edge id="49" source="Nora Tov" target="Hillary Clinton" weight="1" />
+      <edge id="50" source="David Adams" target="Cheryl Mills" weight="2" />
+      <edge id="51" source="David Adams" target="Hillary Clinton" weight="20" />
+      <edge id="52" source="David Adams" target="Thomas Nides" weight="1" />
+      <edge id="53" source="Julie Short" target="Deborah Graze" weight="1" />
+      <edge id="54" source="G. Lou de Bac" target="Cheryl Mills" weight="1" />
+      <edge id="55" source="Louise Diamond" target="Unknown" weight="2" />
+      <edge id="56" source="blaker2@state.gov" target="Hillary Clinton" weight="1" />
+      <edge id="57" source="gensler, gary" target="Hillary Clinton" weight="6" />
+      <edge id="58" source="philippe" target="Hillary Clinton" weight="1" />
+      <edge id="59" source="stringer, howard" target="Unknown" weight="2" />
+      <edge id="60" source="Eric Woodard" target="Hillary Clinton" weight="2" />
+      <edge id="61" source="KPK" target="Hillary Clinton" weight="1" />
+      <edge id="62" source="rubin, james p" target="Hillary Clinton" weight="4" />
+      <edge id="63" source="jalili, saeed" target="ashton, catherine margaret" weight="1" />
+      <edge id="64" source="atwood, j brian" target="Unknown" weight="1" />
+      <edge id="65" source="atwood, j brian" target="Hillary Clinton" weight="1" />
+      <edge id="66" source="Philippe Reines" target="Cheryl Mills" weight="5" />
+      <edge id="67" source="Philippe Reines" target="Capricia Marshall" weight="2" />
+      <edge id="68" source="Philippe Reines" target="Unknown" weight="1" />
+      <edge id="69" source="Philippe Reines" target="Hillary Clinton" weight="346" />
+      <edge id="70" source="Philippe Reines" target="Thomas Nides" weight="2" />
+      <edge id="71" source="Philippe Reines" target="Diane Reynolds" weight="3" />
+      <edge id="72" source="Philippe Reines" target="Jake Sullivan" weight="5" />
+      <edge id="73" source="Philippe Reines" target="shongole37" weight="1" />
+      <edge id="74" source="Philippe Reines" target="Maggie Williams" weight="1" />
+      <edge id="75" source="Philippe Reines" target="Huma Abedin" weight="3" />
+      <edge id="76" source="Philippe Reines" target="Philip Crowley" weight="1" />
+      <edge id="77" source="Dana Hyde" target="Hillary Clinton" weight="1" />
+      <edge id="78" source="Claire Coleman" target="Jake Sullivan" weight="2" />
+      <edge id="79" source="Claire Coleman" target="Cheryl Mills" weight="1" />
+      <edge id="80" source="Claire Coleman" target="Hillary Clinton" weight="258" />
+      <edge id="81" source="Claire Coleman" target="Huma Abedin" weight="1" />
+      <edge id="82" source="amemb port-au-prince" target="Unknown" weight="2" />
+      <edge id="83" source="kamali, farideh" target="united states mission to the united nations" weight="1" />
+      <edge id="84" source="James Smith" target="Hillary Clinton" weight="1" />
+      <edge id="85" source="Oscar Flores" target="Hillary Clinton" weight="1" />
+      <edge id="86" source="Thomas Shannon" target="Hillary Clinton" weight="2" />
+      <edge id="87" source="smith, daniel b" target="lieutenant colonel alfredo najera" weight="1" />
+      <edge id="88" source="smith, daniel b" target="Unknown" weight="1" />
+      <edge id="89" source="Reines Philippe" target="Hillary Clinton" weight="1" />
+      <edge id="90" source="andrea.palm@hhs.gov" target="Hillary Clinton" weight="1" />
+      <edge id="91" source="Adam Ereli" target="Judith" weight="1" />
+      <edge id="92" source="hanley, monica" target="Hillary Clinton" weight="25" />
+      <edge id="93" source="Wendy Sherman" target="Johnnie Carson" weight="1" />
+      <edge id="94" source="Wendy Sherman" target="William Burns" weight="1" />
+      <edge id="95" source="Wendy Sherman" target="Hillary Clinton" weight="118" />
+      <edge id="96" source="Wendy Sherman" target="thomas_e._donilon" weight="3" />
+      <edge id="97" source="Wendy Sherman" target="Jake Sullivan" weight="3" />
+      <edge id="98" source="Wendy Sherman" target="davidmilibandpersonal" weight="1" />
+      <edge id="99" source="carpenter, margaret v w" target="Hillary Clinton" weight="2" />
+      <edge id="100" source="FICC" target="Hillary Clinton" weight="1" />
+      <edge id="101" source="Betsy Ebeling" target="Huma Abedin" weight="1" />
+      <edge id="102" source="Betsy Ebeling" target="Hillary Clinton" weight="50" />
+      <edge id="103" source="Betsy Ebeling" target="Bonnie Klehr" weight="1" />
+      <edge id="104" source="Judith Kieffer" target="Unknown" weight="1" />
+      <edge id="105" source="Kris Balderston" target="Hillary Clinton" weight="61" />
+      <edge id="106" source="Huma Abedin" target="Capricia Marshall" weight="3" />
+      <edge id="107" source="Huma Abedin" target="Monica Hanley" weight="7" />
+      <edge id="108" source="Huma Abedin" target="Unknown" weight="6" />
+      <edge id="109" source="Huma Abedin" target="Hillary Clinton; Philippe Reines" weight="1" />
+      <edge id="110" source="Huma Abedin" target="Oscar Lores" weight="1" />
+      <edge id="111" source="Huma Abedin" target="Voda Ebeling" weight="1" />
+      <edge id="112" source="Huma Abedin" target="Miguel Rodriguez" weight="1" />
+      <edge id="113" source="Huma Abedin" target="Cheryl Mills" weight="18" />
+      <edge id="114" source="Huma Abedin" target="Rosemarie Howe ;Hillary Clinton" weight="1" />
+      <edge id="115" source="Huma Abedin" target="rrh.interiors" weight="1" />
+      <edge id="116" source="Huma Abedin" target="Betsy Ebeling" weight="2" />
+      <edge id="117" source="Huma Abedin" target="Jake Sullivan" weight="21" />
+      <edge id="118" source="Huma Abedin" target="jamesprubin" weight="1" />
+      <edge id="119" source="Huma Abedin" target="Kris Balderston" weight="1" />
+      <edge id="120" source="Huma Abedin" target="Judith McHale" weight="1" />
+      <edge id="121" source="Huma Abedin" target="Huma Abedin" weight="2" />
+      <edge id="122" source="Huma Abedin" target="Luzzatto" weight="1" />
+      <edge id="123" source="Huma Abedin" target="Justin Cooper" weight="1" />
+      <edge id="124" source="Huma Abedin" target="mh.interiors" weight="1" />
+      <edge id="125" source="Huma Abedin" target="Jeffrey Feltman" weight="1" />
+      <edge id="126" source="Huma Abedin" target="Doug Band" weight="1" />
+      <edge id="127" source="Huma Abedin" target="Mark Hyman" weight="2" />
+      <edge id="128" source="Huma Abedin" target="Eric Woodard" weight="1" />
+      <edge id="129" source="Huma Abedin" target="Robert Russo" weight="1" />
+      <edge id="130" source="Huma Abedin" target="Lona Valmoro" weight="20" />
+      <edge id="131" source="Huma Abedin" target="Oscar Flores" weight="23" />
+      <edge id="132" source="Huma Abedin" target="kussa" weight="1" />
+      <edge id="133" source="Huma Abedin" target="Richard Verma" weight="3" />
+      <edge id="134" source="Huma Abedin" target="Philippe Reines" weight="5" />
+      <edge id="135" source="Huma Abedin" target="Laurie Rubiner" weight="1" />
+      <edge id="136" source="Huma Abedin" target="Anne-Marie Slaughter" weight="7" />
+      <edge id="137" source="Huma Abedin" target="Hillary Clinton" weight="3489" />
+      <edge id="138" source="Huma Abedin" target="Strobe Talbott" weight="1" />
+      <edge id="139" source="Huma Abedin" target="Courtney Beale" weight="1" />
+      <edge id="140" source="Huma Abedin" target="Donald" weight="1" />
+      <edge id="141" source="Huma Abedin" target="Kurt Campbell" weight="2" />
+      <edge id="142" source="Huma Abedin" target="Rosemarie Howe" weight="3" />
+      <edge id="143" source="Huma Abedin" target="Lauren Jiloty" weight="6" />
+      <edge id="144" source="James Steinberg" target="Jake Sullivan" weight="1" />
+      <edge id="145" source="James Steinberg" target="Kurt Campbell" weight="1" />
+      <edge id="146" source="James Steinberg" target="Hillary Clinton" weight="9" />
+      <edge id="147" source="James Steinberg" target="Philip Crowley" weight="1" />
+      <edge id="148" source="Michael Fuchs" target="Hillary Clinton" weight="19" />
+      <edge id="149" source="eur/we:davis, bridget" target="Unknown" weight="1" />
+      <edge id="150" source="patterson, anne w" target="Hillary Clinton" weight="1" />
+      <edge id="151" source="valenzuela,arturo a" target="Jake Sullivan" weight="1" />
+      <edge id="152" source="Laura Pena" target="Hillary Clinton" weight="4" />
+      <edge id="153" source="David Hale" target="Jake Sullivan" weight="1" />
+      <edge id="154" source="David Hale" target="dross" weight="1" />
+      <edge id="155" source="David Hale" target="Hillary Clinton" weight="4" />
+      <edge id="156" source="mottaki, manouchehr" target="Unknown" weight="1" />
+      <edge id="157" source="monica" target="Hillary Clinton" weight="1" />
+      <edge id="158" source="James Rubin" target="Hillary Clinton" weight="2" />
+      <edge id="159" source="Samuel (\Sandy\&quot;) Berger&quot;" target="Hillary Clinton" weight="8" />
+      <edge id="160" source="sarkozy, nicolas" target="Unknown" weight="1" />
+      <edge id="161" source="Washington Post" target="Unknown" weight="4" />
+      <edge id="162" source="otera, maria" target="Hillary Clinton" weight="1" />
+      <edge id="163" source="Craig Kelly" target="Hillary Clinton" weight="3" />
+      <edge id="164" source="Alec Ross" target="Unknown" weight="2" />
+      <edge id="165" source="Alec Ross" target="Hillary Clinton" weight="2" />
+      <edge id="166" source="gutman, howard" target="Unknown" weight="1" />
+      <edge id="167" source="Piper Campbell" target="Hillary Clinton" weight="1" />
+      <edge id="168" source="Thomas Nides" target="Jake Sullivan" weight="2" />
+      <edge id="169" source="Thomas Nides" target="Cheryl Mills" weight="1" />
+      <edge id="170" source="Thomas Nides" target="Hillary Clinton" weight="51" />
+      <edge id="171" source="Thomas Nides" target="Philippe Reines" weight="1" />
+      <edge id="172" source="Andrew Bernknopf" target="Hillary Clinton" weight="2" />
+      <edge id="173" source="sullivan, jacob j" target="Hillary Clinton" weight="1" />
+      <edge id="174" source="usaid" target="Unknown" weight="1" />
+      <edge id="175" source="G. Wills" target="Unknown" weight="2" />
+      <edge id="176" source="Carlos Pascual" target="Unknown" weight="1" />
+      <edge id="177" source="Carlos Pascual" target="Cheryl Mills" weight="1" />
+      <edge id="178" source="Carlos Pascual" target="Hillary Clinton" weight="1" />
+      <edge id="179" source="donilon, thomas e." target="Hillary Clinton" weight="3" />
+      <edge id="180" source="Victoria Nuland" target="Hillary Clinton" weight="2" />
+      <edge id="181" source="Elizabeth Drew" target="Unknown" weight="1" />
+      <edge id="182" source="reichel, carlyn" target="Hillary Clinton" weight="1" />
+      <edge id="183" source="Jeffrey Farrow" target="Jake Sullivan" weight="6" />
+      <edge id="184" source="Jeffrey Farrow" target="Hillary Clinton" weight="9" />
+      <edge id="185" source="Jeffrey Farrow" target="Kurt Campbell" weight="1" />
+      <edge id="186" source="sherwood-randall, liz" target="Hillary Clinton" weight="2" />
+      <edge id="187" source="senjohnkerry" target="Hillary Clinton" weight="2" />
+      <edge id="188" source="ashton, catherine" target="jalili, saeed" weight="1" />
+      <edge id="189" source="John Podesta" target="Hillary Clinton" weight="4" />
+      <edge id="190" source="keating, geoffrey t" target="wilson, joseph" weight="1" />
+      <edge id="191" source="U.S. Global Leadership Coalition" target="Unknown" weight="1" />
+      <edge id="192" source="thier, alex" target="Hillary Clinton" weight="1" />
+      <edge id="193" source="Laurie Rubiner" target="Hillary Clinton" weight="1" />
+      <edge id="194" source="rodriguez, miguel" target="Hillary Clinton" weight="1" />
+      <edge id="195" source="Patrick Kennedy" target="Unknown" weight="1" />
+      <edge id="196" source="Patrick Kennedy" target="Hillary Clinton" weight="17" />
+      <edge id="197" source="Patrick Kennedy" target="sheldon_whitehouse2@whitehouse.senate.gov" weight="1" />
+      <edge id="198" source="macmanusje2@state.gov" target="Hillary Clinton" weight="1" />
+      <edge id="199" source="ross dennis b" target="Hillary Clinton" weight="1" />
+      <edge id="200" source="David Garten" target="Hillary Clinton" weight="1" />
+      <edge id="201" source="Lauren Jiloty" target="Unknown" weight="7" />
+      <edge id="202" source="Lauren Jiloty" target="Cheryl Mills" weight="5" />
+      <edge id="203" source="Lauren Jiloty" target="Hillary Clinton" weight="718" />
+      <edge id="204" source="Lauren Jiloty" target="Huma Abedin" weight="8" />
+      <edge id="205" source="Monica Hanley" target="Cheryl Mills" weight="4" />
+      <edge id="206" source="Monica Hanley" target="Hillary Clinton" weight="522" />
+      <edge id="207" source="Monica Hanley" target="Huma Abedin" weight="1" />
+      <edge id="208" source="Monica Hanley" target="Lona Valmoro" weight="1" />
+      <edge id="209" source="Monica Hanley" target="Claire Coleman" weight="1" />
+      <edge id="210" source="Monica Hanley" target="Jake Sullivan" weight="3" />
+      <edge id="211" source="Monica Hanley" target="Daniel Schwerin" weight="2" />
+      <edge id="212" source="Rodriguez Miguel" target="Huma Abedin" weight="1" />
+      <edge id="213" source="Rodriguez Miguel" target="Hillary Clinton" weight="1" />
+      <edge id="214" source="sand, maria w" target="Hillary Clinton" weight="2" />
+      <edge id="215" source="davis, lanny" target="Hillary Clinton" weight="3" />
+      <edge id="216" source="Robert Blake" target="Hillary Clinton" weight="5" />
+      <edge id="217" source="Heintz" target="Unknown" weight="1" />
+      <edge id="218" source="levin, fay hartog" target="Hillary Clinton" weight="1" />
+      <edge id="219" source="seib, gerald f" target="Unknown" weight="1" />
+      <edge id="220" source="Walter Parrs" target="Unknown" weight="1" />
+      <edge id="221" source="Barbara Mikulski" target="Hillary Clinton" weight="28" />
+      <edge id="222" source="Colin Powell" target="Hillary Clinton" weight="1" />
+      <edge id="223" source="usun/hc:buda, thomas" target="io:edmonson, susan" weight="1" />
+      <edge id="224" source="professor muhammad yunus" target="Unknown" weight="1" />
+      <edge id="225" source="lopes da silva, ramiro" target="borns, jeff" weight="1" />
+      <edge id="226" source="keith, adam e" target="keith, adam e" weight="1" />
+      <edge id="227" source="Maria Calivis" target="Susan Rice" weight="2" />
+      <edge id="228" source="Miguel Rodriguez" target="Sung Kim" weight="1" />
+      <edge id="229" source="Miguel Rodriguez" target="Cheryl Mills" weight="2" />
+      <edge id="230" source="Miguel Rodriguez" target="Francis Ricciardone" weight="1" />
+      <edge id="231" source="Miguel Rodriguez" target="Hillary Clinton" weight="21" />
+      <edge id="232" source="ross, dennis" target="Hillary Clinton" weight="6" />
+      <edge id="233" source="sylan support group" target="Unknown" weight="1" />
+      <edge id="234" source="JAMA" target="Unknown" weight="2" />
+      <edge id="235" source="J. Finkle" target="Unknown" weight="1" />
+      <edge id="236" source="foroohar, rana" target="Unknown" weight="1" />
+      <edge id="237" source="Bruce Ramer" target="Hillary Clinton" weight="2" />
+      <edge id="238" source="dsa" target="ros-lehtinen" weight="1" />
+      <edge id="239" source="flournoy, michele" target="Hillary Clinton" weight="1" />
+      <edge id="240" source="teich, sarah f" target="barnett, robert b" weight="1" />
+      <edge id="241" source="gates, robert m" target="Kent Conrad" weight="2" />
+      <edge id="242" source="hunter, robert" target="Hillary Clinton" weight="1" />
+      <edge id="243" source="rubin, james p." target="Hillary Clinton" weight="1" />
+      <edge id="244" source="pvereer" target="Hillary Clinton" weight="1" />
+      <edge id="245" source="cintron, izumi o" target="u.s. dept of state protocol" weight="1" />
+      <edge id="246" source="international criminal court" target="Unknown" weight="1" />
+      <edge id="247" source="adamsds@state.gov" target="Cheryl Mills" weight="1" />
+      <edge id="248" source="Foreign Affairs Magazine" target="Unknown" weight="1" />
+      <edge id="249" source="r_m_gates" target="Hillary Clinton" weight="2" />
+      <edge id="250" source="Christopher Hill" target="Hillary Clinton" weight="1" />
+      <edge id="251" source="Burns Strider" target="Hillary Clinton" weight="5" />
+      <edge id="252" source="Burns Strider" target="Huma Abedin" weight="1" />
+      <edge id="253" source="hickey, cindy" target="Barack Obama" weight="2" />
+      <edge id="254" source="Karen Stewart" target="Hillary Clinton" weight="1" />
+      <edge id="255" source="sullivan. jacob j" target="Hillary Clinton" weight="3" />
+      <edge id="256" source="Sidney Blumenthal" target="Cheryl Mills" weight="2" />
+      <edge id="257" source="Sidney Blumenthal" target="Unknown" weight="16" />
+      <edge id="258" source="Sidney Blumenthal" target="Hillary Clinton" weight="786" />
+      <edge id="259" source="Sidney Blumenthal" target="klain, ron" weight="2" />
+      <edge id="260" source="Sidney Blumenthal" target="haillary" weight="1" />
+      <edge id="261" source="Sidney Blumenthal" target="martilla, john" weight="2" />
+      <edge id="262" source="Sidney Blumenthal" target="Cheryl Mills ;Hillary Clinton" weight="1" />
+      <edge id="263" source="112th congress" target="Unknown" weight="1" />
+      <edge id="264" source="Caroline Adler" target="Hillary Clinton" weight="7" />
+      <edge id="265" source="Arturo Valenzuela" target="Hillary Clinton" weight="15" />
+      <edge id="266" source="David Johnson" target="Jacob Lew" weight="2" />
+      <edge id="267" source="Samuel Berger" target="Hillary Clinton" weight="8" />
+      <edge id="268" source="Rajiv Shah" target="Diane Reynolds" weight="1" />
+      <edge id="269" source="Rajiv Shah" target="Judith McHale" weight="1" />
+      <edge id="270" source="Rajiv Shah" target="Hillary Clinton" weight="6" />
+      <edge id="271" source="NHLA" target="Unknown" weight="1" />
+      <edge id="272" source="jamie" target="Hillary Clinton" weight="1" />
+      <edge id="273" source="jennings, chris" target="Hillary Clinton" weight="1" />
+      <edge id="274" source="Lona Valmoro" target="Cheryl Mills" weight="3" />
+      <edge id="275" source="Lona Valmoro" target="Monica Hanley" weight="1" />
+      <edge id="276" source="Lona Valmoro" target="Philippe Reines" weight="1" />
+      <edge id="277" source="Lona Valmoro" target="Hillary Clinton" weight="449" />
+      <edge id="278" source="Lona Valmoro" target="Jake Sullivan" weight="1" />
+      <edge id="279" source="Lona Valmoro" target="rubin, james p" weight="1" />
+      <edge id="280" source="Lona Valmoro" target="Huma Abedin" weight="34" />
+      <edge id="281" source="Lona Valmoro" target="Lauren Jiloty" weight="1" />
+      <edge id="282" source="Haiti" target="United States of America" weight="4" />
+      <edge id="283" source="Haiti" target="Govenman Etazini" weight="1" />
+      <edge id="284" source="mchald, judith a" target="Hillary Clinton" weight="1" />
+      <edge id="285" source="Richard Verma" target="Jake Sullivan" weight="1" />
+      <edge id="286" source="Richard Verma" target="Unknown" weight="11" />
+      <edge id="287" source="Richard Verma" target="Jacob Lew" weight="1" />
+      <edge id="288" source="Richard Verma" target="Hillary Clinton" weight="154" />
+      <edge id="289" source="Richard Verma" target="valerie" weight="1" />
+      <edge id="290" source="William Burns" target="Jake Sullivan" weight="1" />
+      <edge id="291" source="William Burns" target="Unknown" weight="2" />
+      <edge id="292" source="William Burns" target="Hillary Clinton" weight="62" />
+      <edge id="293" source="William Burns" target="Jeffrey Feltman" weight="1" />
+      <edge id="294" source="mclarty, mack" target="Cheryl Mills" weight="2" />
+      <edge id="295" source="mclarty, mack" target="Hillary Clinton" weight="2" />
+      <edge id="296" source="h:blumenfeld, josh" target="Unknown" weight="1" />
+      <edge id="297" source="Lanny Davis" target="Hillary Clinton" weight="1" />
+      <edge id="298" source="mcfaul, michael a" target="kruzich, joseph" weight="1" />
+      <edge id="299" source="Prime Minister" target="Peter Robinson" weight="1" />
+      <edge id="300" source="Reta Jo Lewis" target="Hillary Clinton" weight="2" />
+      <edge id="301" source="emanuel, rahm" target="Hillary Clinton" weight="1" />
+      <edge id="302" source="Johnnie Carson" target="Hillary Clinton" weight="18" />
+      <edge id="303" source="Johnnie Carson" target="Wendy Sherman" weight="2" />
+      <edge id="304" source="kerry, john" target="Hillary Clinton" weight="2" />
+      <edge id="305" source="lang, kimberly c." target="Hillary Clinton" weight="1" />
+      <edge id="306" source="szubin, adam" target="bondy, steve" weight="1" />
+      <edge id="307" source="James McGovern" target="Unknown" weight="1" />
+      <edge id="308" source="James McGovern" target="Barack Obama" weight="1" />
+      <edge id="309" source="kleinfeld, rachel" target="Hillary Clinton" weight="1" />
+      <edge id="310" source="Brooke Garber Neidich" target="Hillary Clinton" weight="1" />
+      <edge id="311" source="Max Baucus" target="Hillary Clinton" weight="1" />
+      <edge id="312" source="Long Term Strategy Group" target="Department of State" weight="1" />
+      <edge id="313" source="G Sheaffer" target="Unknown" weight="1" />
+      <edge id="314" source="jlcos" target="Hillary Clinton" weight="1" />
+      <edge id="315" source="Neera Tanden" target="Huma Abedin" weight="1" />
+      <edge id="316" source="Neera Tanden" target="Hillary Clinton" weight="51" />
+      <edge id="317" source="Neera Tanden" target="Neera Tanden" weight="1" />
+      <edge id="318" source="wilson, valerie" target="Richard Verma" weight="1" />
+      <edge id="319" source="wilson, valerie" target="Hillary Clinton" weight="1" />
+      <edge id="320" source="gopk" target="mission pk" weight="1" />
+      <edge id="321" source="countryman, thomas" target="Hillary Clinton" weight="1" />
+      <edge id="322" source="indyk, martin" target="Hillary Clinton" weight="1" />
+      <edge id="323" source="colman, claire l" target="Hillary Clinton" weight="1" />
+      <edge id="324" source="mills, cheyrl d" target="Hillary Clinton" weight="1" />
+      <edge id="325" source="hybels, lynne" target="Hillary Clinton" weight="1" />
+      <edge id="326" source="Andrew Shapiro" target="Jake Sullivan" weight="1" />
+      <edge id="327" source="Andrew Shapiro" target="Hillary Clinton" weight="10" />
+      <edge id="328" source="Gideon Rose" target="Hillary Clinton" weight="1" />
+      <edge id="329" source="farrow, jeffrey f" target="Kurt Campbell" weight="1" />
+      <edge id="330" source="Cheryl Mills" target="Suzanne Grantham" weight="1" />
+      <edge id="331" source="Cheryl Mills" target="Capricia Marshall" weight="2" />
+      <edge id="332" source="Cheryl Mills" target="Megan Rooney" weight="1" />
+      <edge id="333" source="Cheryl Mills" target="Monica Hanley" weight="4" />
+      <edge id="334" source="Cheryl Mills" target="Unknown" weight="32" />
+      <edge id="335" source="Cheryl Mills" target="Phillip Crowley" weight="1" />
+      <edge id="336" source="Cheryl Mills" target="Janice Jacobs" weight="1" />
+      <edge id="337" source="Cheryl Mills" target="Rene Preval" weight="1" />
+      <edge id="338" source="Cheryl Mills" target="Maura Pally" weight="1" />
+      <edge id="339" source="Cheryl Mills" target="Samuel (\Sandy\&quot;) Berger&quot;" weight="1" />
+      <edge id="340" source="Cheryl Mills" target="Patrick Kennedy" weight="1" />
+      <edge id="341" source="Cheryl Mills" target="Miguel Rodriguez" weight="1" />
+      <edge id="342" source="Cheryl Mills" target="David Adams" weight="1" />
+      <edge id="343" source="Cheryl Mills" target="Cheryl Mills" weight="33" />
+      <edge id="344" source="Cheryl Mills" target="Maggie Williams" weight="4" />
+      <edge id="345" source="Cheryl Mills" target="LGraham" weight="1" />
+      <edge id="346" source="Cheryl Mills" target="spence, roy" weight="1" />
+      <edge id="347" source="Cheryl Mills" target="Jake Sullivan" weight="25" />
+      <edge id="348" source="Cheryl Mills" target="Judith McHale" weight="1" />
+      <edge id="349" source="Cheryl Mills" target="Huma Abedin" weight="28" />
+      <edge id="350" source="Cheryl Mills" target="Robert Blake" weight="1" />
+      <edge id="351" source="Cheryl Mills" target="Justin Cooper" weight="1" />
+      <edge id="352" source="Cheryl Mills" target="Jim Kennedy" weight="1" />
+      <edge id="353" source="Cheryl Mills" target="Jacob Lew" weight="6" />
+      <edge id="354" source="Cheryl Mills" target="Michael Posner" weight="1" />
+      <edge id="355" source="Cheryl Mills" target="Lourdes Cue" weight="1" />
+      <edge id="356" source="Cheryl Mills" target="Doug Band" weight="2" />
+      <edge id="357" source="Cheryl Mills" target="James Steinberg" weight="2" />
+      <edge id="358" source="Cheryl Mills" target="crocker, bathsheba n" weight="1" />
+      <edge id="359" source="Cheryl Mills" target="Philip Gordon" weight="1" />
+      <edge id="360" source="Cheryl Mills" target="Lynn Forester de Rothschild" weight="1" />
+      <edge id="361" source="Cheryl Mills" target="Lona Valmoro" weight="4" />
+      <edge id="362" source="Cheryl Mills" target="Oscar Flores" weight="4" />
+      <edge id="363" source="Cheryl Mills" target="William Burns" weight="1" />
+      <edge id="364" source="Cheryl Mills" target="Melanne Verveer" weight="2" />
+      <edge id="365" source="Cheryl Mills" target="hyman, mark" weight="1" />
+      <edge id="366" source="Cheryl Mills" target="Lissa Muscatine" weight="1" />
+      <edge id="367" source="Cheryl Mills" target="Richard Verma" weight="2" />
+      <edge id="368" source="Cheryl Mills" target="Philippe Reines" weight="4" />
+      <edge id="369" source="Cheryl Mills" target="Anne-Marie Slaughter" weight="3" />
+      <edge id="370" source="Cheryl Mills" target="Hillary Clinton" weight="4298" />
+      <edge id="371" source="Cheryl Mills" target="Strobe Talbott" weight="1" />
+      <edge id="372" source="Cheryl Mills" target="samuelson, heather f" weight="1" />
+      <edge id="373" source="Cheryl Mills" target="Christopher Edwards" weight="1" />
+      <edge id="374" source="Cheryl Mills" target="edelman, marty" weight="1" />
+      <edge id="375" source="Cheryl Mills" target="Michele Bond" weight="1" />
+      <edge id="376" source="Cheryl Mills" target="Nora Toiv" weight="2" />
+      <edge id="377" source="Cheryl Mills" target="Lauren Jiloty" weight="1" />
+      <edge id="378" source="World Bank" target="Unknown" weight="8" />
+      <edge id="379" source="Ian Kelly" target="Unknown" weight="1" />
+      <edge id="380" source="abedin, huma&gt;" target="Hillary Clinton" weight="1" />
+      <edge id="381" source="s/p:slaughter, ann-marie" target="Hillary Clinton" weight="1" />
+      <edge id="382" source="s/sait: ross, alec" target="Hillary Clinton" weight="1" />
+      <edge id="383" source="Michael Posner" target="Hillary Clinton" weight="3" />
+      <edge id="384" source="Diane Reynolds" target="Hillary Clinton" weight="5" />
+      <edge id="385" source="Diane Reynolds" target="diane, reynolds" weight="1" />
+      <edge id="386" source="Bernadette Meehan" target="Hillary Clinton" weight="9" />
+      <edge id="387" source="SRGIA" target="Unknown" weight="1" />
+      <edge id="388" source="Muhammad Yunus" target="Unknown" weight="7" />
+      <edge id="389" source="David Brock" target="Unknown" weight="2" />
+      <edge id="390" source="Lissa Muscatine" target="Anne-Marie Slaughter" weight="1" />
+      <edge id="391" source="Lissa Muscatine" target="Cheryl Mills" weight="2" />
+      <edge id="392" source="Lissa Muscatine" target="Hillary Clinton" weight="94" />
+      <edge id="393" source="Lissa Muscatine" target="Daniel Baer" weight="1" />
+      <edge id="394" source="Lissa Muscatine" target="Huma Abedin" weight="1" />
+      <edge id="395" source="Nima Abbaszadeh" target="Hillary Clinton" weight="6" />
+      <edge id="396" source="s/ciea:pascual and s/eee morningstar" target="Hillary Clinton" weight="1" />
+      <edge id="397" source="S. Akbar Zaidi" target="Unknown" weight="1" />
+      <edge id="398" source="Kelly Brownell" target="Unknown" weight="3" />
+      <edge id="399" source="Jackie Newmyer" target="Hillary Clinton" weight="16" />
+      <edge id="400" source="jacobson, roberta s" target="Hillary Clinton" weight="2" />
+      <edge id="401" source="Daniel Baer" target="Cheryl Mills" weight="1" />
+      <edge id="402" source="Daniel Baer" target="Hillary Clinton" weight="7" />
+      <edge id="403" source="falvo, christine" target="Hillary Clinton" weight="1" />
+      <edge id="404" source="FINCA International" target="Unknown" weight="1" />
+      <edge id="405" source="penn, mark j" target="Hillary Clinton" weight="1" />
+      <edge id="406" source="Maura Pally" target="John Olver" weight="1" />
+      <edge id="407" source="Maura Pally" target="Hillary Clinton" weight="1" />
+      <edge id="408" source="Dmitry Vovchuk" target="Unknown" weight="1" />
+      <edge id="409" source="heintz, stephen b" target="Thomas Donilon" weight="2" />
+      <edge id="410" source="heintz, stephen b" target="Barack Obama" weight="2" />
+      <edge id="411" source="Embassy of the Argentine Republic" target="IRS" weight="2" />
+      <edge id="412" source="director of communication, isaf and usfor-a" target="cdea, ambassador wayne" weight="1" />
+      <edge id="413" source="USUN" target="Unknown" weight="3" />
+      <edge id="414" source="Robert Danford" target="Hillary Clinton" weight="1" />
+      <edge id="415" source="rooneym@state.gov" target="Hillary Clinton" weight="1" />
+      <edge id="416" source="feldman, daniel f" target="Hillary Clinton" weight="1" />
+      <edge id="417" source="wall street journal" target="Unknown" weight="1" />
+      <edge id="418" source="gurria, angel" target="Hillary Clinton" weight="1" />
+      <edge id="419" source="nathanson, marc" target="samuelson, heather" weight="1" />
+      <edge id="420" source="postmaster@state.gov" target="Hillary Clinton" weight="10" />
+      <edge id="421" source="Melanne Verveer" target="Hillary Clinton" weight="288" />
+      <edge id="422" source="Melanne Verveer" target="Huma Abedin" weight="1" />
+      <edge id="423" source="crocker, ryan c" target="Hillary Clinton" weight="1" />
+      <edge id="424" source="Thomas Donilon" target="Unknown" weight="1" />
+      <edge id="425" source="Thomas Donilon" target="Hillary Clinton" weight="19" />
+      <edge id="426" source="reines, philippe" target="Hillary Clinton" weight="1" />
+      <edge id="427" source="Mike Lynch" target="Hillary Clinton" weight="1" />
+      <edge id="428" source="Susan Rice" target="Unknown" weight="1" />
+      <edge id="429" source="Susan Rice" target="dennis_b._ross" weight="1" />
+      <edge id="430" source="Susan Rice" target="Hillary Clinton" weight="8" />
+      <edge id="431" source="Susan Rice" target="ross, dennis b." weight="1" />
+      <edge id="432" source="David Miliband" target="Hillary Clinton" weight="1" />
+      <edge id="433" source="Jay Epping" target="Unknown" weight="1" />
+      <edge id="434" source="professor muhammed yunus" target="Unknown" weight="1" />
+      <edge id="435" source="Tsakina Elbegdori" target="Bill Clinton" weight="1" />
+      <edge id="436" source="elle magazine" target="Unknown" weight="1" />
+      <edge id="437" source="ross, dennis b." target="William Burns" weight="1" />
+      <edge id="438" source="ross, dennis b." target="Hillary Clinton" weight="4" />
+      <edge id="439" source="ross, dennis b." target="Susan Rice" weight="2" />
+      <edge id="440" source="mohamed, binyam" target="secretary of state for foreign and commonwealth affairs" weight="2" />
+      <edge id="441" source="Justine Sincavage" target="Unknown" weight="1" />
+      <edge id="442" source="morningstar, richard l" target="Cheryl Mills" weight="1" />
+      <edge id="443" source="tyson, laura" target="Hillary Clinton" weight="1" />
+      <edge id="444" source="Judith McHale" target="Cheryl Mills" weight="4" />
+      <edge id="445" source="Judith McHale" target="Walter Isaacson" weight="1" />
+      <edge id="446" source="Judith McHale" target="Jacob Lew" weight="1" />
+      <edge id="447" source="Judith McHale" target="mcdonough, denis r" weight="1" />
+      <edge id="448" source="Judith McHale" target="Anne-Marie Slaughter" weight="1" />
+      <edge id="449" source="Judith McHale" target="Michael Posner" weight="1" />
+      <edge id="450" source="Judith McHale" target="Hillary Clinton" weight="211" />
+      <edge id="451" source="Judith McHale" target="Maria Otero" weight="1" />
+      <edge id="452" source="Judith McHale" target="carroll, sean" weight="1" />
+      <edge id="453" source="Judith McHale" target="Yoweri Museveni" weight="3" />
+      <edge id="454" source="Judith McHale" target="Doug Hattaway" weight="1" />
+      <edge id="455" source="Judith McHale" target="Lona Valmoro" weight="1" />
+      <edge id="456" source="Judith McHale" target="Carlos Pascual" weight="1" />
+      <edge id="457" source="Judith McHale" target="Jake Sullivan" weight="2" />
+      <edge id="458" source="Judith McHale" target="Gorden Gray" weight="2" />
+      <edge id="459" source="Judith McHale" target="Rajiv Shah" weight="1" />
+      <edge id="460" source="Judith McHale" target="munter, cameron p" weight="1" />
+      <edge id="461" source="Judith McHale" target="Philip Crowley" weight="1" />
+      <edge id="462" source="Luis CdeBaca" target="Hillary Clinton" weight="1" />
+      <edge id="463" source="Jacob Lew" target="Jake Sullivan" weight="1" />
+      <edge id="464" source="Jacob Lew" target="Unknown" weight="1" />
+      <edge id="465" source="Jacob Lew" target="Cheryl Mills" weight="4" />
+      <edge id="466" source="Jacob Lew" target="Hillary Clinton" weight="35" />
+      <edge id="467" source="Jacob Lew" target="Philip Crowley" weight="1" />
+      <edge id="468" source="davis, lanny j" target="Unknown" weight="1" />
+      <edge id="469" source="davis, lanny j" target="Hillary Clinton" weight="2" />
+      <edge id="470" source="G Wills" target="Unknown" weight="1" />
+      <edge id="471" source="mayor_re" target="Hillary Clinton" weight="5" />
+      <edge id="472" source="am" target="S" weight="1" />
+      <edge id="473" source="Oscar Arias Sanchez" target="Unknown" weight="1" />
+      <edge id="474" source="strobe, talbott" target="Hillary Clinton" weight="1" />
+      <edge id="475" source="srap/p:lenderking, t" target="Unknown" weight="1" />
+      <edge id="476" source="Anthony Lake" target="Hillary Clinton" weight="2" />
+      <edge id="477" source="Philip Gordon" target="Hillary Clinton" weight="46" />
+      <edge id="478" source="valmoro. lona j" target="Hillary Clinton" weight="1" />
+      <edge id="479" source="ahlc chair" target="Unknown" weight="1" />
+      <edge id="480" source="Courtney Beale" target="Jake Sullivan" weight="1" />
+      <edge id="481" source="Courtney Beale" target="Hillary Clinton" weight="2" />
+      <edge id="482" source="Hillary Clinton" target="Joanne Laszczych" weight="9" />
+      <edge id="483" source="Hillary Clinton" target="Monica Hanley" weight="438" />
+      <edge id="484" source="Hillary Clinton" target="Todd Stern" weight="4" />
+      <edge id="485" source="Hillary Clinton" target="Mark Penn" weight="1" />
+      <edge id="486" source="Hillary Clinton" target="roy.spence" weight="2" />
+      <edge id="487" source="Hillary Clinton" target="Phillip Crowley" weight="15" />
+      <edge id="488" source="Hillary Clinton" target="habedin" weight="1" />
+      <edge id="489" source="Hillary Clinton" target="thomas_e._donilon" weight="23" />
+      <edge id="490" source="Hillary Clinton" target="Daniel" weight="1" />
+      <edge id="491" source="Hillary Clinton" target="Gina Glantz" weight="1" />
+      <edge id="492" source="Hillary Clinton" target="Rodriguez Miguel" weight="19" />
+      <edge id="493" source="Hillary Clinton" target="blaker2@state.gov" weight="1" />
+      <edge id="494" source="Hillary Clinton" target="abedomj@state.gov" weight="1" />
+      <edge id="495" source="Hillary Clinton" target="robert.kagan" weight="1" />
+      <edge id="496" source="Hillary Clinton" target="Cheryl Mills" weight="1136" />
+      <edge id="497" source="Hillary Clinton" target="grossmanmi@state.gov" weight="1" />
+      <edge id="498" source="Hillary Clinton" target="Yousaf Gilani" weight="2" />
+      <edge id="499" source="Hillary Clinton" target="Susan Rice" weight="3" />
+      <edge id="500" source="Hillary Clinton" target="dross" weight="2" />
+      <edge id="501" source="Hillary Clinton" target="Unknown" weight="324" />
+      <edge id="502" source="Hillary Clinton" target="Jake Sullivan" weight="1403" />
+      <edge id="503" source="Hillary Clinton" target="Brian Greenspun" weight="1" />
+      <edge id="504" source="Hillary Clinton" target="wen jiabao" weight="1" />
+      <edge id="505" source="Hillary Clinton" target="Esther Brimmer" weight="2" />
+      <edge id="506" source="Hillary Clinton" target="Michael Posner" weight="2" />
+      <edge id="507" source="Hillary Clinton" target="harold.koplewicz" weight="1" />
+      <edge id="508" source="Hillary Clinton" target="Mark Hyman" weight="1" />
+      <edge id="509" source="Hillary Clinton" target="Derek Chollet" weight="1" />
+      <edge id="510" source="Hillary Clinton" target="Diane Reynolds" weight="4" />
+      <edge id="511" source="Hillary Clinton" target="Barack Obama" weight="2" />
+      <edge id="512" source="Hillary Clinton" target="sheldon_whitehouse2@whitehouse.senate.gov" weight="1" />
+      <edge id="513" source="Hillary Clinton" target="kkazzarelli" weight="1" />
+      <edge id="514" source="Hillary Clinton" target="William Burns" weight="32" />
+      <edge id="515" source="Hillary Clinton" target="shermanwr@state.gov" weight="18" />
+      <edge id="516" source="Hillary Clinton" target="Robert Hormats" weight="3" />
+      <edge id="517" source="Hillary Clinton" target="stephen.roach" weight="1" />
+      <edge id="518" source="Hillary Clinton" target="Barbara Mikulski" weight="9" />
+      <edge id="519" source="Hillary Clinton" target="Michele Flournoy" weight="2" />
+      <edge id="520" source="Hillary Clinton" target="stockjs@state.gov" weight="2" />
+      <edge id="521" source="Hillary Clinton" target="pattersonaw@state.gov" weight="1" />
+      <edge id="522" source="Hillary Clinton" target="l" weight="1" />
+      <edge id="523" source="Hillary Clinton" target="Courtney Beale" weight="3" />
+      <edge id="524" source="Hillary Clinton" target="jhuber2606" weight="1" />
+      <edge id="525" source="Hillary Clinton" target="Jeffrey Feltman" weight="21" />
+      <edge id="526" source="Hillary Clinton" target="Nora Toiv" weight="10" />
+      <edge id="527" source="Hillary Clinton" target="jilliscol" weight="1" />
+      <edge id="528" source="Hillary Clinton" target="fernandez, richard r" weight="1" />
+      <edge id="529" source="Hillary Clinton" target="sullivanjj@state/gov" weight="1" />
+      <edge id="530" source="Hillary Clinton" target="Luzzatto" weight="2" />
+      <edge id="531" source="Hillary Clinton" target="Han Duk-soo" weight="2" />
+      <edge id="532" source="Hillary Clinton" target="Daniel Baer" weight="4" />
+      <edge id="533" source="Hillary Clinton" target="friedd@state.gov" weight="2" />
+      <edge id="534" source="Hillary Clinton" target="sandmw@state.gov" weight="1" />
+      <edge id="535" source="Hillary Clinton" target="woodardew2@state.gov" weight="1" />
+      <edge id="536" source="Hillary Clinton" target="Doug Hattaway" weight="4" />
+      <edge id="537" source="Hillary Clinton" target="David Axelrod" weight="1" />
+      <edge id="538" source="Hillary Clinton" target="millcd@state.gov" weight="1" />
+      <edge id="539" source="Hillary Clinton" target="Strobe Talbott" weight="26" />
+      <edge id="540" source="Hillary Clinton" target="DanielJJ@state.gov" weight="10" />
+      <edge id="541" source="Hillary Clinton" target="mfuchs.mike" weight="1" />
+      <edge id="542" source="Hillary Clinton" target="Kent Conrad" weight="4" />
+      <edge id="543" source="Hillary Clinton" target="mmonroe" weight="1" />
+      <edge id="544" source="Hillary Clinton" target="Jan Piercy" weight="5" />
+      <edge id="545" source="Hillary Clinton" target="Thomas Shannon" weight="1" />
+      <edge id="546" source="Hillary Clinton" target="rverma" weight="1" />
+      <edge id="547" source="Hillary Clinton" target="harry.b.harris" weight="1" />
+      <edge id="548" source="Hillary Clinton" target="wellsag@state.gov" weight="3" />
+      <edge id="549" source="Hillary Clinton" target="Cherie Blair" weight="9" />
+      <edge id="550" source="Hillary Clinton" target="davidson, jon" weight="2" />
+      <edge id="551" source="Hillary Clinton" target="kissinger, henry" weight="1" />
+      <edge id="552" source="Hillary Clinton" target="pennrhodeen" weight="1" />
+      <edge id="553" source="Hillary Clinton" target="joseph.wilson" weight="1" />
+      <edge id="554" source="Hillary Clinton" target="rooneym@state.gov" weight="15" />
+      <edge id="555" source="Hillary Clinton" target="andrea_j_palm" weight="2" />
+      <edge id="556" source="Hillary Clinton" target="feldmandf@state.gov" weight="1" />
+      <edge id="557" source="Hillary Clinton" target="sheeran, josette" weight="1" />
+      <edge id="558" source="Hillary Clinton" target="jacobsonrs@state.gov" weight="1" />
+      <edge id="559" source="Hillary Clinton" target="rrussony" weight="1" />
+      <edge id="560" source="Hillary Clinton" target="meehanb@state.gov" weight="3" />
+      <edge id="561" source="Hillary Clinton" target="Terry Duffy" weight="1" />
+      <edge id="562" source="Hillary Clinton" target="Lynn Forester de Rothschild" weight="1" />
+      <edge id="563" source="Hillary Clinton" target="Recos" weight="9" />
+      <edge id="564" source="Hillary Clinton" target="Rick Sloan" weight="1" />
+      <edge id="565" source="Hillary Clinton" target="carpentermv@state.gov" weight="4" />
+      <edge id="566" source="Hillary Clinton" target="kussa" weight="1" />
+      <edge id="567" source="Hillary Clinton" target="joe" weight="5" />
+      <edge id="568" source="Hillary Clinton" target="Philippe Reines" weight="172" />
+      <edge id="569" source="Hillary Clinton" target="adamsds@state.gov" weight="6" />
+      <edge id="570" source="Hillary Clinton" target="mitchellg@state.gov" weight="2" />
+      <edge id="571" source="Hillary Clinton" target="r_m_gates" weight="4" />
+      <edge id="572" source="Hillary Clinton" target="Christopher Hill" weight="1" />
+      <edge id="573" source="Hillary Clinton" target="haledm2@state.gov" weight="2" />
+      <edge id="574" source="Hillary Clinton" target="goosby, eric" weight="1" />
+      <edge id="575" source="Hillary Clinton" target="jillichtman" weight="1" />
+      <edge id="576" source="Hillary Clinton" target="abedinh@state;gov" weight="1" />
+      <edge id="577" source="Hillary Clinton" target="klang" weight="1" />
+      <edge id="578" source="Hillary Clinton" target="Claire Coleman" weight="49" />
+      <edge id="579" source="Hillary Clinton" target="Tina Flournoy" weight="1" />
+      <edge id="580" source="Hillary Clinton" target="Burns Strider" weight="8" />
+      <edge id="581" source="Hillary Clinton" target="Oscar Flores" weight="29" />
+      <edge id="582" source="Hillary Clinton" target="kennedypf@state.gov" weight="7" />
+      <edge id="583" source="Hillary Clinton" target="Capricia Marshall" weight="34" />
+      <edge id="584" source="Hillary Clinton" target="rshah@usaid.gov" weight="3" />
+      <edge id="585" source="Hillary Clinton" target="abbaszadehn@state.gov" weight="1" />
+      <edge id="586" source="Hillary Clinton" target="Sidney Blumenthal" weight="143" />
+      <edge id="587" source="Hillary Clinton" target="David Miliband" weight="1" />
+      <edge id="588" source="Hillary Clinton" target="haroldnaughton" weight="2" />
+      <edge id="589" source="Hillary Clinton" target="cfalvo@usaid.gov" weight="1" />
+      <edge id="590" source="Hillary Clinton" target="Scott Gration" weight="1" />
+      <edge id="591" source="Hillary Clinton" target="KellyC@state.gov" weight="3" />
+      <edge id="592" source="Hillary Clinton" target="Arturo Valenzuela" weight="9" />
+      <edge id="593" source="Hillary Clinton" target="schwartzep@state.gov" weight="2" />
+      <edge id="594" source="Hillary Clinton" target="jamierubin" weight="1" />
+      <edge id="595" source="Hillary Clinton" target="davisjl4@state.gov" weight="2" />
+      <edge id="596" source="Hillary Clinton" target="Wendy Sherman" weight="3" />
+      <edge id="597" source="Hillary Clinton" target="Melanne Verveer" weight="114" />
+      <edge id="598" source="Hillary Clinton" target="Betsy Ebeling" weight="22" />
+      <edge id="599" source="Hillary Clinton" target="Robert Russo" weight="522" />
+      <edge id="600" source="Hillary Clinton" target="jamesprubin" weight="2" />
+      <edge id="601" source="Hillary Clinton" target="Kris Balderston" weight="33" />
+      <edge id="602" source="Hillary Clinton" target="Judith McHale" weight="62" />
+      <edge id="603" source="Hillary Clinton" target="jkeane" weight="2" />
+      <edge id="604" source="Hillary Clinton" target="flournoy, tina" weight="1" />
+      <edge id="605" source="Hillary Clinton" target="Johnnie Carson" weight="14" />
+      <edge id="606" source="Hillary Clinton" target="Jacob Lew" weight="26" />
+      <edge id="607" source="Hillary Clinton" target="mayor_re" weight="2" />
+      <edge id="608" source="Hillary Clinton" target="pascualc@state.gov" weight="1" />
+      <edge id="609" source="Hillary Clinton" target="James Steinberg" weight="11" />
+      <edge id="610" source="Hillary Clinton" target="rossaj@state.gov" weight="1" />
+      <edge id="611" source="Hillary Clinton" target="mmoore" weight="2" />
+      <edge id="612" source="Hillary Clinton" target="Philip Gordon" weight="20" />
+      <edge id="613" source="Hillary Clinton" target="Michael Fuchs" weight="13" />
+      <edge id="614" source="Hillary Clinton" target="Lona Valmoro" weight="434" />
+      <edge id="615" source="Hillary Clinton" target="powellnj@state.gov" weight="1" />
+      <edge id="616" source="Hillary Clinton" target="Rajiv Shah" weight="2" />
+      <edge id="617" source="Hillary Clinton" target="Lisa Caputo" weight="2" />
+      <edge id="618" source="Hillary Clinton" target="sullilvanjj@state.gov" weight="1" />
+      <edge id="619" source="Hillary Clinton" target="Anne-Marie Slaughter" weight="112" />
+      <edge id="620" source="Hillary Clinton" target="Hillary Clinton" weight="4" />
+      <edge id="621" source="Hillary Clinton" target="Maria Otero" weight="10" />
+      <edge id="622" source="Hillary Clinton" target="Huma Abedin" weight="872" />
+      <edge id="623" source="Hillary Clinton" target="kktowns" weight="1" />
+      <edge id="624" source="Hillary Clinton" target="dhattaway" weight="2" />
+      <edge id="625" source="Hillary Clinton" target="Kurt Campbell" weight="57" />
+      <edge id="626" source="Hillary Clinton" target="WoodardEW@state.gov" weight="1" />
+      <edge id="627" source="Hillary Clinton" target="Dan Schwerin" weight="1" />
+      <edge id="628" source="Hillary Clinton" target="Lanny Davis" weight="5" />
+      <edge id="629" source="Hillary Clinton" target="dennis_b._ross" weight="20" />
+      <edge id="630" source="Hillary Clinton" target="Megan Rooney" weight="1" />
+      <edge id="631" source="Hillary Clinton" target="mspence" weight="1" />
+      <edge id="632" source="Hillary Clinton" target="thomas.r.pickering" weight="1" />
+      <edge id="633" source="Hillary Clinton" target="Samuel (\Sandy\&quot;) Berger&quot;" weight="8" />
+      <edge id="634" source="Hillary Clinton" target="Lissa Muscatine" weight="54" />
+      <edge id="635" source="Hillary Clinton" target="Marty Torrey" weight="3" />
+      <edge id="636" source="Hillary Clinton" target="pathfinder" weight="7" />
+      <edge id="637" source="Hillary Clinton" target="judithmchale" weight="7" />
+      <edge id="638" source="Hillary Clinton" target="lrobinson" weight="1" />
+      <edge id="639" source="Hillary Clinton" target="mhcaleja@state.gov" weight="1" />
+      <edge id="640" source="Hillary Clinton" target="tina.brownny" weight="1" />
+      <edge id="641" source="Hillary Clinton" target="Thomas Nides" weight="30" />
+      <edge id="642" source="Hillary Clinton" target="Maggie Williams" weight="5" />
+      <edge id="643" source="Hillary Clinton" target="penal@state.gov" weight="3" />
+      <edge id="644" source="Hillary Clinton" target="humamabedin" weight="1" />
+      <edge id="645" source="Hillary Clinton" target="donilon, tom" weight="1" />
+      <edge id="646" source="Hillary Clinton" target="george" weight="4" />
+      <edge id="647" source="Hillary Clinton" target="Harold Hongju Koh" weight="15" />
+      <edge id="648" source="Hillary Clinton" target="Lois Quam" weight="2" />
+      <edge id="649" source="Hillary Clinton" target="nora.toiv" weight="3" />
+      <edge id="650" source="Hillary Clinton" target="Nancy Parrish" weight="1" />
+      <edge id="651" source="Hillary Clinton" target="alec.ross" weight="1" />
+      <edge id="652" source="Hillary Clinton" target="Neera Tanden" weight="27" />
+      <edge id="653" source="Hillary Clinton" target="adlerce@state.gov" weight="1" />
+      <edge id="654" source="Hillary Clinton" target="aclb" weight="28" />
+      <edge id="655" source="Hillary Clinton" target="Tomicah Tillemann" weight="10" />
+      <edge id="656" source="Hillary Clinton" target="Doug Band" weight="1" />
+      <edge id="657" source="Hillary Clinton" target="Jeffrey Farrow" weight="2" />
+      <edge id="658" source="Hillary Clinton" target="jvillarreal" weight="1" />
+      <edge id="659" source="Hillary Clinton" target="senjohnkerry" weight="3" />
+      <edge id="660" source="Hillary Clinton" target="Council on Foreign Relations" weight="1" />
+      <edge id="661" source="Hillary Clinton" target="tyson" weight="1" />
+      <edge id="662" source="Hillary Clinton" target="John Podesta" weight="3" />
+      <edge id="663" source="Hillary Clinton" target="Daniel Schwerin" weight="13" />
+      <edge id="664" source="Hillary Clinton" target="Ellen Tauscher" weight="6" />
+      <edge id="665" source="Hillary Clinton" target="schu" weight="1" />
+      <edge id="666" source="Hillary Clinton" target="Richard Verma" weight="76" />
+      <edge id="667" source="Hillary Clinton" target="Ban Ki-moon" weight="1" />
+      <edge id="668" source="Hillary Clinton" target="bshillady" weight="1" />
+      <edge id="669" source="Hillary Clinton" target="Richard Holbrooke" weight="1" />
+      <edge id="670" source="Hillary Clinton" target="macmanusje2@state.gov" weight="3" />
+      <edge id="671" source="Hillary Clinton" target="davidmilibandpersonal" weight="4" />
+      <edge id="672" source="Hillary Clinton" target="David Garten" weight="2" />
+      <edge id="673" source="Hillary Clinton" target="Andrew Shapiro" weight="7" />
+      <edge id="674" source="Hillary Clinton" target="besty.ebeling@illinois.gov" weight="1" />
+      <edge id="675" source="Hillary Clinton" target="Lauren Jiloty" weight="717" />
+      <edge id="676" source="Strobe Talbott" target="Unknown" weight="2" />
+      <edge id="677" source="Strobe Talbott" target="Cheryl Mills" weight="1" />
+      <edge id="678" source="Strobe Talbott" target="Kati Marton" weight="1" />
+      <edge id="679" source="Strobe Talbott" target="Hillary Clinton" weight="60" />
+      <edge id="680" source="Strobe Talbott" target="Huma Abedin" weight="1" />
+      <edge id="681" source="alexander, ralph" target="nyu-poly community" weight="1" />
+      <edge id="682" source="cooks, arazi l" target="Unknown" weight="1" />
+      <edge id="683" source="Kurt Campbell" target="Lona Valmoro" weight="1" />
+      <edge id="684" source="Kurt Campbell" target="Hillary Clinton" weight="87" />
+      <edge id="685" source="Kurt Campbell" target="Philip Crowley" weight="1" />
+      <edge id="686" source="Alex Dupuy" target="Unknown" weight="1" />
+      <edge id="687" source="rendon group" target="Unknown" weight="1" />
+      <edge id="688" source="Megan Rooney" target="Hillary Clinton" weight="17" />
+      <edge id="689" source="fried, daniel" target="Hillary Clinton" weight="1" />
+      <edge id="690" source="Dan Feldman" target="Hillary Clinton" weight="1" />
+      <edge id="691" source="Marc Grossman" target="Hillary Clinton" weight="1" />
+      <edge id="692" source="Andrew Mayock" target="Unknown" weight="1" />
+      <edge id="693" source="M. Albright" target="Hillary Clinton" weight="1" />
+      <edge id="694" source="Zachary Iscol" target="Hillary Clinton" weight="1" />
+      <edge id="695" source="deanehan,  r" target="gentlemen" weight="1" />
+      <edge id="696" source="Christopher Green" target="Unknown" weight="1" />
+      <edge id="697" source="Christopher Butzgy" target="Hillary Clinton" weight="1" />
+      <edge id="698" source="agor, christina j" target="Hillary Clinton" weight="1" />
+      <edge id="699" source="Lois Quam" target="Hillary Clinton" weight="6" />
+      <edge id="700" source="wilson, joe" target="Lona Valmoro" weight="1" />
+      <edge id="701" source="wilson, joe" target="Hillary Clinton" weight="4" />
+      <edge id="702" source="Eni Faleomavaega" target="Unknown" weight="1" />
+      <edge id="703" source="Bill Lane" target="Member of Congress" weight="1" />
+      <edge id="704" source="jiloty, laruen c" target="Hillary Clinton" weight="1" />
+      <edge id="705" source="Tomicah Tillemann" target="Unknown" weight="1" />
+      <edge id="706" source="Tomicah Tillemann" target="Hillary Clinton" weight="10" />
+      <edge id="707" source="Jon Kyl" target="Republican Members" weight="1" />
+      <edge id="708" source="Daniel Schwerin" target="Jake Sullivan" weight="3" />
+      <edge id="709" source="Daniel Schwerin" target="Hillary Clinton" weight="21" />
+      <edge id="710" source="radice, jamie" target="Unknown" weight="1" />
+      <edge id="711" source="schu" target="Hillary Clinton" weight="3" />
+      <edge id="712" source="Jim Hoagland" target="Unknown" weight="1" />
+      <edge id="713" source="davis, jennifer l" target="Hillary Clinton" weight="3" />
+      <edge id="714" source="iscol, jill" target="Hillary Clinton" weight="2" />
+      <edge id="715" source="Opinion Research" target="Unknown" weight="1" />
+      <edge id="716" source="nazary, parnian" target="Unknown" weight="3" />
+      <edge id="717" source="White House" target="Unknown" weight="1" />
+      <edge id="718" source="syrian support group" target="Unknown" weight="1" />
+      <edge id="719" source="millscs@state.gov" target="Hillary Clinton" weight="1" />
+      <edge id="720" source="Joanne Laszczych" target="Cheryl Mills" weight="1" />
+      <edge id="721" source="Joanne Laszczych" target="Hillary Clinton" weight="9" />
+      <edge id="722" source="George Mitchell" target="Hillary Clinton" weight="6" />
+      <edge id="723" source="Todd Stern" target="list" weight="1" />
+      <edge id="724" source="Todd Stern" target="Hillary Clinton" weight="6" />
+      <edge id="725" source="ross, alec j" target="Hillary Clinton" weight="3" />
+      <edge id="726" source="Phillip Crowley" target="Hillary Clinton; Philippe Reines" weight="2" />
+      <edge id="727" source="Phillip Crowley" target="Hillary Clinton" weight="3" />
+      <edge id="728" source="thomas_e._donilon" target="ross, dennis b." weight="1" />
+      <edge id="729" source="thomas_e._donilon" target="Hillary Clinton" weight="1" />
+      <edge id="730" source="Voda Ebeling" target="Lauren Jiloty" weight="1" />
+      <edge id="731" source="Voda Ebeling" target="Huma Abedin" weight="1" />
+      <edge id="732" source="Voda Ebeling" target="Hillary Clinton" weight="2" />
+      <edge id="733" source="Gina Glantz" target="Hillary Clinton" weight="3" />
+      <edge id="734" source="toribiong, johnson" target="Hillary Clinton" weight="2" />
+      <edge id="735" source="shermanwr@state.gov" target="Hillary Clinton" weight="2" />
+      <edge id="736" source="paul" target="Hillary Clinton" weight="1" />
+      <edge id="737" source="pinsky, mark" target="varma, vivek" weight="1" />
+      <edge id="738" source="wells, alice g" target="Hillary Clinton" weight="1" />
+      <edge id="739" source="wells, alice g" target="Monica Hanley" weight="1" />
+      <edge id="740" source="shin, ed" target="Unknown" weight="1" />
+      <edge id="741" source="Jake Sullivan" target="Megan Rooney" weight="1" />
+      <edge id="742" source="Jake Sullivan" target="Monica Hanley" weight="2" />
+      <edge id="743" source="Jake Sullivan" target="Unknown" weight="53" />
+      <edge id="744" source="Jake Sullivan" target="Hillary Clinton; Philippe Reines" weight="1" />
+      <edge id="745" source="Jake Sullivan" target="Cheryl Mills" weight="10" />
+      <edge id="746" source="Jake Sullivan" target="Thomas Nides" weight="2" />
+      <edge id="747" source="Jake Sullivan" target="Wendy Sherman" weight="3" />
+      <edge id="748" source="Jake Sullivan" target="Jake Sullivan" weight="2" />
+      <edge id="749" source="Jake Sullivan" target="Judith McHale" weight="5" />
+      <edge id="750" source="Jake Sullivan" target="Huma Abedin" weight="14" />
+      <edge id="751" source="Jake Sullivan" target="Philip Crowley" weight="1" />
+      <edge id="752" source="Jake Sullivan" target="preines;h" weight="1" />
+      <edge id="753" source="Jake Sullivan" target="Jacob Lew" weight="1" />
+      <edge id="754" source="Jake Sullivan" target="Jeffrey Feltman" weight="3" />
+      <edge id="755" source="Jake Sullivan" target="aclb" weight="1" />
+      <edge id="756" source="Jake Sullivan" target="Tomicah Tillemann" weight="2" />
+      <edge id="757" source="Jake Sullivan" target="Philip Gordon" weight="1" />
+      <edge id="758" source="Jake Sullivan" target="Lona Valmoro" weight="3" />
+      <edge id="759" source="Jake Sullivan" target="Joshua Daniel" weight="1" />
+      <edge id="760" source="Jake Sullivan" target="shapiro, daniel b" weight="1" />
+      <edge id="761" source="Jake Sullivan" target="Daniel Schwerin" weight="1" />
+      <edge id="762" source="Jake Sullivan" target="patterson, anne w" weight="1" />
+      <edge id="763" source="Jake Sullivan" target="Lissa Muscatine" weight="1" />
+      <edge id="764" source="Jake Sullivan" target="Richard Verma" weight="2" />
+      <edge id="765" source="Jake Sullivan" target="Philippe Reines" weight="12" />
+      <edge id="766" source="Jake Sullivan" target="Anne-Marie Slaughter" weight="4" />
+      <edge id="767" source="Jake Sullivan" target="Hillary Clinton" weight="3882" />
+      <edge id="768" source="Jake Sullivan" target="Strobe Talbott" weight="1" />
+      <edge id="769" source="Jake Sullivan" target="valenzuela,arturo a" weight="1" />
+      <edge id="770" source="Jake Sullivan" target="David Hale" weight="1" />
+      <edge id="771" source="Jake Sullivan" target="davidmilibandpersonal" weight="1" />
+      <edge id="772" source="Jake Sullivan" target="Kurt Campbell" weight="2" />
+      <edge id="773" source="Jake Sullivan" target="Lauren Jiloty" weight="1" />
+      <edge id="774" source="jarvis, lucy" target="Unknown" weight="1" />
+      <edge id="775" source="jarvis, lucy" target="Biography" weight="1" />
+      <edge id="776" source="Derek Chollet" target="Hillary Clinton" weight="1" />
+      <edge id="777" source="Barack Obama" target="Unknown" weight="3" />
+      <edge id="778" source="Barack Obama" target="komorowski, bronislaw" weight="1" />
+      <edge id="779" source="mon" target="Lona Valmoro" weight="1" />
+      <edge id="780" source="mon" target="Hillary Clinton" weight="15" />
+      <edge id="781" source="mon" target="mon" weight="2" />
+      <edge id="782" source="shapiro, daniel b" target="Jake Sullivan" weight="1" />
+      <edge id="783" source="shapiro, daniel b" target="Susan Rice" weight="1" />
+      <edge id="784" source="stock, ann" target="Hillary Clinton" weight="6" />
+      <edge id="785" source="Hillary Clinton ;Cheryl Mills" target="Kris Balderston" weight="1" />
+      <edge id="786" source="latimes.com" target="Unknown" weight="1" />
+      <edge id="787" source="mueller, rober s" target="macaskill, kenny" weight="1" />
+      <edge id="788" source="Nora Toiv" target="Cheryl Mills" weight="1" />
+      <edge id="789" source="Nora Toiv" target="Hillary Clinton" weight="16" />
+      <edge id="790" source="russo, robert" target="Cheryl Mills" weight="1" />
+      <edge id="791" source="russo, robert" target="Hillary Clinton" weight="4" />
+      <edge id="792" source="io/unp:debbink, sarah" target="Unknown" weight="1" />
+      <edge id="793" source="AGNA USEMB Kabul Afghanistan" target="Unknown" weight="1" />
+      <edge id="794" source="pesaru, shilpa" target="Hillary Clinton" weight="1" />
+      <edge id="795" source="kissinger, henry a" target="Hillary Clinton" weight="1" />
+      <edge id="796" source="111th Congress" target="Unknown" weight="1" />
+      <edge id="797" source="David Axelrod" target="Hillary Clinton" weight="2" />
+      <edge id="798" source="mitchell, derek" target="Hillary Clinton" weight="1" />
+      <edge id="799" source="Chelsea Clinton" target="Bill Clinton" weight="2" />
+      <edge id="800" source="Mike" target="Hillary Clinton" weight="2" />
+      <edge id="801" source="Daniel Inonye" target="Barack Obama" weight="1" />
+      <edge id="802" source="holbrooke, richard" target="Hillary Clinton" weight="1" />
+      <edge id="803" source="blair, bruce" target="Hillary Clinton" weight="1" />
+      <edge id="804" source="Cherie Blair" target="Hillary Clinton" weight="28" />
+      <edge id="805" source="Philip Crowley" target="Michael Posner" weight="1" />
+      <edge id="806" source="Philip Crowley" target="Hillary Clinton" weight="21" />
+      <edge id="807" source="Nicholas Norman" target="Unknown" weight="1" />
+      <edge id="808" source="graham, catherine t" target="whom it may concern" weight="1" />
+      <edge id="809" source="ramsay, alston" target="Unknown" weight="1" />
+      <edge id="810" source="Jonathan Prince" target="Hillary Clinton" weight="1" />
+      <edge id="811" source="Recos" target="Hillary Clinton" weight="13" />
+      <edge id="812" source="Joshua Daniel" target="Hillary Clinton" weight="16" />
+      <edge id="813" source="UN General Assembly" target="Unknown" weight="2" />
+      <edge id="814" source="Lee Brown" target="Karl Eikenberry" weight="2" />
+      <edge id="815" source="sulilvan, jacob j" target="Hillary Clinton" weight="2" />
+      <edge id="816" source="amnesty international" target="Unknown" weight="1" />
+      <edge id="817" source="PVervee" target="Hillary Clinton" weight="1" />
+      <edge id="818" source="Danielle Brian" target="Hillary Clinton" weight="2" />
+      <edge id="819" source="hecker, sig" target="bosworth, steve" weight="2" />
+      <edge id="820" source="burns, strider" target="Hillary Clinton" weight="1" />
+      <edge id="821" source="steinberg, james" target="Hillary Clinton" weight="2" />
+      <edge id="822" source="nes/ela:conlon, steve" target="Unknown" weight="1" />
+      <edge id="823" source="mullen, m g" target="reid, harry" weight="1" />
+      <edge id="824" source="mullen, m g" target="pelosi, nancy" weight="2" />
+      <edge id="825" source="froman, michael b" target="Hillary Clinton" weight="1" />
+      <edge id="826" source="Paul Jones" target="Hillary Clinton" weight="3" />
+      <edge id="827" source="Alec" target="Cheryl" weight="1" />
+      <edge id="828" source="nides, thomas" target="Hillary Clinton" weight="1" />
+      <edge id="829" source="American Beverage Association" target="Hillary Clinton" weight="1" />
+      <edge id="830" source="sbwhoep" target="Hillary Clinton" weight="1" />
+      <edge id="831" source="bastien, joelle-elizabeth" target="Unknown" weight="1" />
+      <edge id="832" source="Ministry of Foreign Affairs Pakistan" target="Unknown" weight="1" />
+      <edge id="833" source="Robert Russo" target="Cheryl Mills" weight="3" />
+      <edge id="834" source="Robert Russo" target="Monica Hanley" weight="1" />
+      <edge id="835" source="Robert Russo" target="Hillary Clinton" weight="135" />
+      <edge id="836" source="Robert Russo" target="haroldnaughton" weight="3" />
+      <edge id="837" source="Robert Russo" target="Doug Hattaway" weight="1" />
+      <edge id="838" source="Robert Russo" target="mon" weight="1" />
+      <edge id="839" source="Robert Russo" target="Betsy Ebeling" weight="1" />
+      <edge id="840" source="Robert Russo" target="Huma Abedin" weight="2" />
+      <edge id="841" source="shapirodb@state.gov" target="David Hale" weight="1" />
+      <edge id="842" source="lantz, judson" target="haiti dlc distro" weight="1" />
+      <edge id="843" source="Chad Weston" target="Unknown" weight="1" />
+      <edge id="844" source="Maria Otero" target="Hillary Clinton" weight="19" />
+      <edge id="845" source="davidmilibandpersonal" target="Hillary Clinton" weight="1" />
+      <edge id="846" source="miguel" target="Hillary Clinton" weight="1" />
+      <edge id="847" source="feridun, sinirlioglu" target="Philip Gordon" weight="1" />
+      <edge id="848" source="Linda Dewan" target="Hillary Clinton" weight="1" />
+      <edge id="849" source="whitehouse, sheldon" target="Hillary Clinton" weight="2" />
+      <edge id="850" source="New York State DMV" target="Hillary Clinton" weight="5" />
+      <edge id="851" source="Madeleine Albright" target="Hillary Clinton" weight="16" />
+      <edge id="852" source="Daily Sun" target="Unknown" weight="2" />
+      <edge id="853" source="Werner Ilic" target="Kabul LGF Request" weight="1" />
+      <edge id="854" source="macmanus, joseph e" target="Hillary Clinton" weight="4" />
+      <edge id="855" source="ivalmoro" target="Hillary Clinton" weight="2" />
+      <edge id="856" source="Cecile Richards" target="Unknown" weight="1" />
+      <edge id="857" source="deanehan, r" target="gentlemen" weight="1" />
+      <edge id="858" source="New York Times" target="Unknown" weight="3" />
+      <edge id="859" source="Akbar Zaidi" target="Unknown" weight="1" />
+      <edge id="860" source="aclb" target="Hillary Clinton" weight="32" />
+      <edge id="861" source="L. Rosenberger" target="Unknown" weight="1" />
+      <edge id="862" source="Harold Hongju Koh" target="Cheryl Mills" weight="1" />
+      <edge id="863" source="Harold Hongju Koh" target="Jennifer Robinson" weight="1" />
+      <edge id="864" source="Harold Hongju Koh" target="soros, jonathan" weight="1" />
+      <edge id="865" source="Harold Hongju Koh" target="Hillary Clinton" weight="52" />
+      <edge id="866" source="Harold Hongju Koh" target="William Burns" weight="2" />
+      <edge id="867" source="Harold Hongju Koh" target="Jeffrey Feltman" weight="1" />
+      <edge id="868" source="Harold Hongju Koh" target="Jake Sullivan" weight="2" />
+      <edge id="869" source="Bob Hormats" target="Counselor" weight="2" />
+      <edge id="870" source="Capricia Marshall" target="Cheryl Mills" weight="5" />
+      <edge id="871" source="Capricia Marshall" target="Philippe Reines" weight="2" />
+      <edge id="872" source="Capricia Marshall" target="Hillary Clinton" weight="56" />
+      <edge id="873" source="Capricia Marshall" target="jonrdavidson" weight="1" />
+      <edge id="874" source="Capricia Marshall" target="Robert Russo" weight="1" />
+      <edge id="875" source="Capricia Marshall" target="Huma Abedin; Hillary Clinton" weight="2" />
+      <edge id="876" source="Capricia Marshall" target="Huma Abedin" weight="3" />
+      <edge id="877" source="Capricia Marshall" target="Melanne Verveer" weight="1" />
+      <edge id="878" source="alcb" target="Hillary Clinton" weight="5" />
+      <edge id="879" source="AP" target="Unknown" weight="1" />
+      <edge id="880" source="mission.ir" target="eeas" weight="1" />
+      <edge id="881" source="netanyahu" target="Unknown" weight="1" />
+      <edge id="882" source="Charles Kiamie" target="Unknown" weight="3" />
+      <edge id="883" source="s/srap:bommer, ashley" target="Hillary Clinton" weight="1" />
+      <edge id="884" source="Marianne Scott" target="Unknown" weight="1" />
+      <edge id="885" source="Ellen Tauscher" target="Hillary Clinton" weight="11" />
+      <edge id="886" source="Case Button" target="Hillary Clinton" weight="1" />
+      <edge id="887" source="STATE" target="congress" weight="1" />
+      <edge id="888" source="STATE" target="ALDAC" weight="1" />
+      <edge id="889" source="STATE" target="Unknown" weight="10" />
+      <edge id="890" source="STATE" target="Embassy of the Argentine Republic" weight="2" />
+      <edge id="891" source="STATE" target="monrovia" weight="1" />
+      <edge id="892" source="STATE" target="WHADP" weight="1" />
+      <edge id="893" source="STATE" target="ASUNCION" weight="1" />
+      <edge id="894" source="cownie, t.m. franklin" target="Barack Obama" weight="1" />
+      <edge id="895" source="child mind institute" target="Unknown" weight="1" />
+    </edges>
+  </graph>
+</gexf>
